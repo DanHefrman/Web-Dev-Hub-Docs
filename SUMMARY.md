@@ -72,3 +72,8 @@
 
 * [Docs](docs/docs.md)
 
+## Code Editors & Tools
+
+* [Vscode](code-editors-and-tools/vscode/README.md)
+  * [How To Speed Up Vscode](code-editors-and-tools/vscode/how-to-speed-up-vscode.md)
+
