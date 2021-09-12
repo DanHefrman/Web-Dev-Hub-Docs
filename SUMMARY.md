@@ -30,11 +30,13 @@
 
 ## Links
 
-* [Untitled](links/untitled.md)
+* [Links](links/untitled.md)
+* [Untitled](links/untitled-1.md)
 
 ## Websites
 
-* [Untitled](websites/untitled.md)
+* [Websites](websites/untitled.md)
+* [Untitled](websites/untitled-1.md)
 
 ## Backend
 
@@ -46,19 +48,23 @@
 
 ## Resources
 
-* [Untitled](resources/untitled.md)
+* [Resources](resources/untitled.md)
+* [Untitled](resources/untitled-1.md)
 
 ## General Knowledge
 
-* [Untitled](general-knowledge/untitled.md)
+* [General Knowledge](general-knowledge/untitled.md)
+* [Untitled](general-knowledge/untitled-1.md)
 
 ## Finance
 
-* [Untitled](finance/untitled.md)
+* [Finance](finance/untitled.md)
+* [Untitled](finance/untitled-1.md)
 
 ## Science & Tech \(Innovation\)
 
-* [Untitled](science-and-tech-innovation/untitled.md)
+* [Science & Tech](science-and-tech-innovation/untitled.md)
+* [Untitled](science-and-tech-innovation/untitled-1.md)
 
 ## Reading
 
