@@ -36,3 +36,27 @@
 
 * [Untitled](websites/untitled.md)
 
+## Backend
+
+* [Untitled](backend/untitled.md)
+
+## Networking
+
+* [Untitled](networking/untitled.md)
+
+## Resources
+
+* [Untitled](resources/untitled.md)
+
+## General Knowledge
+
+* [Untitled](general-knowledge/untitled.md)
+
+## Finance
+
+* [Untitled](finance/untitled.md)
+
+## Science & Tech \(Innovation\)
+
+* [Untitled](science-and-tech-innovation/untitled.md)
+
