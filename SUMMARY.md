@@ -83,3 +83,12 @@
 * [Vscode](code-editors-and-tools/vscode/README.md)
   * [How To Speed Up Vscode](code-editors-and-tools/vscode/how-to-speed-up-vscode.md)
 
+## Cool Stuff
+
+* [Cool Observable Notebooks](cool-stuff/cool-observable-notebooks.md)
+
+## Server-Side
+
+* [GraphQL](server-side/graphql.md)
+* [REST-API](server-side/rest-api.md)
+
