@@ -238,6 +238,10 @@ When we open Graphiql in the browser, we see two panels. We write queries in the
 
 When we configure a GraphQL application, we define our data in 'types,' with each type representing a singular resource on the server. Graphiql knows this schema and provides us with error highlighting and prompts. If we try to query for a variable which is not present on the current type, the variable will be underlined in red. Hovering over the variable will also display an error message.
 
+
+
+
+
 ![graphiql-error](https://assets.aaonline.io/graphql/d1/graphiql_2.png)
 
 If we hover over any valid variable, a modal appears which displays the related types for that variable.
