@@ -89,6 +89,7 @@
 
 ## Server-Side
 
-* [GraphQL](server-side/graphql.md)
+* [GraphQL](server-side/graphql/README.md)
+  * [Intro](server-side/graphql/intro.md)
 * [REST-API](server-side/rest-api.md)
 
