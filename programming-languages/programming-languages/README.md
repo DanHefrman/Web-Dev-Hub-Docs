@@ -1,43 +1,32 @@
 # Programming Languages
 
-ho
-
-
-
 {% page-ref page="frameworks/" %}
 
 {% page-ref page="git.md" %}
 
-{% page-ref page="git.md" %}
+{% page-ref page="python/" %}
 
-{% page-ref page="git.md" %}
+{% page-ref page="bash.md" %}
 
-{% page-ref page="git.md" %}
+{% page-ref page="javascript/" %}
 
-{% page-ref page="git.md" %}
+{% page-ref page="java.md" %}
 
-{% page-ref page="git.md" %}
+{% page-ref page="html.md" %}
 
-{% page-ref page="git.md" %}
+{% page-ref page="markdown.md" %}
 
-{% page-ref page="git.md" %}
+{% page-ref page="css.md" %}
 
-{% page-ref page="git.md" %}
+{% page-ref page="scss.md" %}
 
-{% page-ref page="git.md" %}
+{% page-ref page="c-and-c++.md" %}
 
-{% page-ref page="git.md" %}
+{% page-ref page="ruby.md" %}
 
-{% page-ref page="git.md" %}
-
-{% page-ref page="git.md" %}
-
-{% page-ref page="git.md" %}
-
+{% page-ref page="sql/" %}
 
 ![](../../.gitbook/assets/image%20%281%29.png)
-
-
 
 ## [A](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=1)
 
