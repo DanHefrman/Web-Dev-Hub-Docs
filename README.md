@@ -1,6 +1,12 @@
-# Initial page
+---
+description: initial page
+---
+
+# Home
 
 ## Main Blog:
+
+{% embed url="https://codepen.io/bgoonz/full/LYyBwEp" %}
 
 
 
@@ -8,7 +14,7 @@
 
 {% embed url="https://github.com/bgoonz/BGOONZ\_BLOG\_2.0" %}
 
-{% embed url="https://codepen.io/bgoonz/embed/OJgxqbm?default-tab=result&editable=true&theme-id=light" caption="Website Navigation \(my websites\)" %}
+{% embed url="https://codepen.io/bgoonz/full/OJgxqbm" caption="Website Navigation \(my websites\)" %}
 
 
 
