@@ -117,6 +117,7 @@
 ## Code Editors & Tools
 
 * [Vscode](code-editors-and-tools/vscode/README.md)
+  * [Vscode Docs](code-editors-and-tools/vscode/vscode-docs.md)
   * [How To Speed Up Vscode](code-editors-and-tools/vscode/how-to-speed-up-vscode.md)
 
 ## Cool Stuff
