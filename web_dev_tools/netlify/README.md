@@ -157,4 +157,3 @@ An ACME-based CA, written in Go. [https://github.com/letsencrypt/boulder](https:
 Let's Encrypt client and ACME library written in Go. [https://github.com/xenolf/lego](https://github.com/xenolf/lego)
 
 [Contribute on GitHub](https://github.com/xenolf/lego)
-
