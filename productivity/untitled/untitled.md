@@ -1,14 +1,8 @@
-# Untitled
+# Awesome Productivity Tools for Back-to-School
 
 General Productivity Tools:
 
 
-
-## Awesome Productivity Tools for Back-to-School \| Common Sense Education
-
-> Help students get organized and moving forward. Explore this Awesome Productivity Tools for Back-to-School Top Picks list of 31 tools curated by Common Sense Education editors to find relevant and engaging edtech solutions for your classroom.
-
-![Print](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/education/sites/all/themes/learn/images/entities/node/tlr-top-picks/print.svg)Print \| Save as PDF
 
 ### Note-Taking Apps and Sites
 
