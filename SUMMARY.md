@@ -50,6 +50,10 @@
 
 * [React](web-development-frameworks/react.md)
 * [Jquery](web-development-frameworks/jquery.md)
+* [GATSBY](web-development-frameworks/gatsby/README.md)
+  * [Building with Components](web-development-frameworks/gatsby/building-with-components.md)
+  * [Plugins, Themes, & Starters](web-development-frameworks/gatsby/plugins-themes-and-starters.md)
+  * [GraphQL Concepts](web-development-frameworks/gatsby/graphql-concepts.md)
 
 ## Productivity
 
@@ -126,7 +130,9 @@
 
 ## WEB\_DEV\_TOOLS
 
+* [Cloudinary](web_dev_tools/cloudinary.md)
 * [Netlify](web_dev_tools/netlify/README.md)
+  * [Open Authoring](web_dev_tools/netlify/open-authoring.md)
   * [Netlify CMS](web_dev_tools/netlify/netlify-cms.md)
   * [Git Gateway](web_dev_tools/netlify/git-gateway.md)
 
