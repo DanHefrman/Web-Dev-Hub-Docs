@@ -132,6 +132,7 @@
 
 * [Cloudinary](web_dev_tools/cloudinary.md)
 * [Netlify](web_dev_tools/netlify/README.md)
+  * [Examples](web_dev_tools/netlify/examples.md)
   * [Open Authoring](web_dev_tools/netlify/open-authoring.md)
   * [Netlify CMS](web_dev_tools/netlify/netlify-cms.md)
   * [Git Gateway](web_dev_tools/netlify/git-gateway.md)
