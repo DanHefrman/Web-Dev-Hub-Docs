@@ -4,6 +4,10 @@ description: initial page
 
 # Home
 
+{% page-ref page="navigation.md" %}
+
+
+
 ## Main Blog:
 
 {% embed url="https://codepen.io/bgoonz/full/LYyBwEp" %}
@@ -86,88 +90,107 @@ description: initial page
 
 
 
+## 
+
 ## Table of contents
 
-* [Initial page](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/README.md)
+* [Home](https://bryan-guner.gitbook.io/web-dev-hub-docs/README)
+
+### Tools
+
+* [Tools](https://bryan-guner.gitbook.io/web-dev-hub-docs/tools/tools)
+* [Showcase](https://bryan-guner.gitbook.io/web-dev-hub-docs/tools/showcase)
 
 ### Programming Languages
 
-* [What is a Programming Language?](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/programming-languages/what-is-a-programming-language.md)
-* [List Of Programming Languages By Type](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/programming-languages/list-of-programming-languages-by-type.md)
+* [Programming Languages](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/README)
+  * [Bash](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/bash)
+* [What is a Programming Language?](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/what-is-a-programming-language)
+* [List Of Programming Languages By Type](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/list-of-programming-languages-by-type)
 
 ### Python
 
-* [Untitled](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/python/untitled.md)
+* [Untitled](https://bryan-guner.gitbook.io/web-dev-hub-docs/python/untitled)
 
 ### JavaScript
 
-* [Untitled](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/javascript/untitled.md)
+* [Untitled](https://bryan-guner.gitbook.io/web-dev-hub-docs/javascript/untitled)
 
-### Web Development Frameworks & Libraries
+### Web Development Frameworks & Libraries <a id="web-development-frameworks"></a>
 
-* [React](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/web-development-frameworks/react.md)
-* [Jquery](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/web-development-frameworks/jquery.md)
+* [React](https://bryan-guner.gitbook.io/web-dev-hub-docs/web-development-frameworks/react)
+* [Jquery](https://bryan-guner.gitbook.io/web-dev-hub-docs/web-development-frameworks/jquery)
 
 ### Productivity
 
-* [Untitled](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/productivity/untitled.md)
+* [Untitled](https://bryan-guner.gitbook.io/web-dev-hub-docs/productivity/untitled)
 
 ### Misc
 
-* [Untitled](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/misc/untitled.md)
+* [Untitled](https://bryan-guner.gitbook.io/web-dev-hub-docs/misc/untitled)
 
 ### Links
 
-* [Links](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/links/untitled.md)
-* [Untitled](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/links/untitled-1.md)
+* [Links](https://bryan-guner.gitbook.io/web-dev-hub-docs/links/untitled)
+* [Untitled](https://bryan-guner.gitbook.io/web-dev-hub-docs/links/untitled-1)
 
 ### Websites
 
-* [Websites](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/websites/untitled.md)
-* [Untitled](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/websites/untitled-1.md)
+* [Websites](https://bryan-guner.gitbook.io/web-dev-hub-docs/websites/untitled)
+* [Untitled](https://bryan-guner.gitbook.io/web-dev-hub-docs/websites/untitled-1)
 
 ### Backend
 
-* [Untitled](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/backend/untitled.md)
+* [Untitled](https://bryan-guner.gitbook.io/web-dev-hub-docs/backend/untitled)
 
 ### Networking
 
-* [Untitled](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/networking/untitled.md)
+* [Untitled](https://bryan-guner.gitbook.io/web-dev-hub-docs/networking/untitled)
 
 ### Resources
 
-* [Resources](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/resources/untitled.md)
-* [Untitled](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/resources/untitled-1.md)
+* [Resources](https://bryan-guner.gitbook.io/web-dev-hub-docs/resources/untitled)
+* [Untitled](https://bryan-guner.gitbook.io/web-dev-hub-docs/resources/untitled-1)
 
 ### General Knowledge
 
-* [General Knowledge](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/general-knowledge/untitled.md)
-* [Untitled](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/general-knowledge/untitled-1.md)
+* [General Knowledge](https://bryan-guner.gitbook.io/web-dev-hub-docs/general-knowledge/untitled)
+* [Untitled](https://bryan-guner.gitbook.io/web-dev-hub-docs/general-knowledge/untitled-1)
 
 ### Finance
 
-* [Finance](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/finance/untitled.md)
-* [Untitled](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/finance/untitled-1.md)
+* [Finance](https://bryan-guner.gitbook.io/web-dev-hub-docs/finance/untitled)
+* [Untitled](https://bryan-guner.gitbook.io/web-dev-hub-docs/finance/untitled-1)
 
 ### Science & Tech \(Innovation\)
 
-* [Science & Tech](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/science-and-tech-innovation/untitled.md)
-* [Untitled](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/science-and-tech-innovation/untitled-1.md)
+* [Science & Tech](https://bryan-guner.gitbook.io/web-dev-hub-docs/science-and-tech-innovation/untitled)
+* [Untitled](https://bryan-guner.gitbook.io/web-dev-hub-docs/science-and-tech-innovation/untitled-1)
 
 ### Reading
 
-* [Untitled](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/reading/untitled.md)
+* [Untitled](https://bryan-guner.gitbook.io/web-dev-hub-docs/reading/untitled)
 
 ### Social Media & Trends
 
-* [Untitled](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/social-media-and-trends/untitled.md)
+* [Untitled](https://bryan-guner.gitbook.io/web-dev-hub-docs/social-media-and-trends/untitled)
 
 ### Docs
 
-* [Docs](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/docs/docs.md)
+* [Docs](https://bryan-guner.gitbook.io/web-dev-hub-docs/docs/docs)
 
 ### Code Editors & Tools
 
-* [Vscode](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/code-editors-and-tools/vscode/README.md)
-  * [How To Speed Up Vscode](https://github.com/bgoonz/Web-Dev-Hub-Docs/blob/master/code-editors-and-tools/vscode/how-to-speed-up-vscode.md)
+* [Vscode](https://bryan-guner.gitbook.io/web-dev-hub-docs/code-editors-and-tools/vscode/README)
+  * [How To Speed Up Vscode](https://bryan-guner.gitbook.io/web-dev-hub-docs/code-editors-and-tools/vscode/how-to-speed-up-vscode)
+
+### Cool Stuff
+
+* [Cool Observable Notebooks](https://bryan-guner.gitbook.io/web-dev-hub-docs/cool-stuff/cool-observable-notebooks)
+
+### Server-Side
+
+* [GraphQL](https://bryan-guner.gitbook.io/web-dev-hub-docs/server-side/graphql/README)
+  * [Intro](https://bryan-guner.gitbook.io/web-dev-hub-docs/server-side/graphql/intro)
+* [REST-API](https://bryan-guner.gitbook.io/web-dev-hub-docs/server-side/rest-api)
 
