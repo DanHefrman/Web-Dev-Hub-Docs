@@ -35,16 +35,40 @@ description: initial page
 ## Table of contents
 
 * [Home](https://bryan-guner.gitbook.io/web-dev-hub-docs/README)
+* [Navigation](https://bryan-guner.gitbook.io/web-dev-hub-docs/navigation)
 
 ### Tools
 
-* [Tools](https://bryan-guner.gitbook.io/web-dev-hub-docs/tools/tools)
+* [Tools](https://bryan-guner.gitbook.io/web-dev-hub-docs/tools/tools/README)
+  * [Heroku](https://bryan-guner.gitbook.io/web-dev-hub-docs/tools/tools/heroku)
 * [Showcase](https://bryan-guner.gitbook.io/web-dev-hub-docs/tools/showcase)
 
 ### Programming Languages
 
 * [Programming Languages](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/README)
+  * [Frameworks](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/frameworks/README)
+    * [Docker](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/frameworks/docker)
+  * [Git](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/git)
+  * [Python](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/python/README)
+    * [Practice](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/python/practice)
+    * [Pipenv](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/python/pipenv)
   * [Bash](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/bash)
+  * [JavaScript](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/javascript/README)
+    * [NodeJS](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/javascript/nodejs/README)
+      * [Express](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/javascript/nodejs/express/README)
+        * [Sequelize](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/javascript/nodejs/express/sequelize)
+    * [Regex](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/javascript/regex)
+    * [React](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/javascript/react/README)
+      * [Redux](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/javascript/react/redux)
+  * [Java](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/java)
+  * [Html](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/html)
+  * [Markdown](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/markdown)
+  * [CSS](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/css)
+  * [SCSS](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/scss)
+  * [C & C++](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/c-and-c++)
+  * [Ruby](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/ruby)
+  * [SQL](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/sql/README)
+    * [PostgreSQL](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/programming-languages/sql/postgresql)
 * [What is a Programming Language?](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/what-is-a-programming-language)
 * [List Of Programming Languages By Type](https://bryan-guner.gitbook.io/web-dev-hub-docs/programming-languages/list-of-programming-languages-by-type)
 
@@ -54,12 +78,16 @@ description: initial page
 
 ### JavaScript
 
-* [Untitled](https://bryan-guner.gitbook.io/web-dev-hub-docs/javascript/untitled)
+* [JavaScript](https://bryan-guner.gitbook.io/web-dev-hub-docs/javascript/untitled)
 
 ### Web Development Frameworks & Libraries <a id="web-development-frameworks"></a>
 
 * [React](https://bryan-guner.gitbook.io/web-dev-hub-docs/web-development-frameworks/react)
 * [Jquery](https://bryan-guner.gitbook.io/web-dev-hub-docs/web-development-frameworks/jquery)
+* [GATSBY](https://bryan-guner.gitbook.io/web-dev-hub-docs/web-development-frameworks/gatsby/README)
+  * [Building with Components](https://bryan-guner.gitbook.io/web-dev-hub-docs/web-development-frameworks/gatsby/building-with-components)
+  * [Plugins, Themes, & Starters](https://bryan-guner.gitbook.io/web-dev-hub-docs/web-development-frameworks/gatsby/plugins-themes-and-starters)
+  * [GraphQL Concepts](https://bryan-guner.gitbook.io/web-dev-hub-docs/web-development-frameworks/gatsby/graphql-concepts)
 
 ### Productivity
 
@@ -133,6 +161,15 @@ description: initial page
 * [GraphQL](https://bryan-guner.gitbook.io/web-dev-hub-docs/server-side/graphql/README)
   * [Intro](https://bryan-guner.gitbook.io/web-dev-hub-docs/server-side/graphql/intro)
 * [REST-API](https://bryan-guner.gitbook.io/web-dev-hub-docs/server-side/rest-api)
+
+### WEB\_DEV\_TOOLS
+
+* [Cloudinary](https://bryan-guner.gitbook.io/web-dev-hub-docs/web_dev_tools/cloudinary)
+* [Netlify](https://bryan-guner.gitbook.io/web-dev-hub-docs/web_dev_tools/netlify/README)
+  * [Examples](https://bryan-guner.gitbook.io/web-dev-hub-docs/web_dev_tools/netlify/examples)
+  * [Open Authoring](https://bryan-guner.gitbook.io/web-dev-hub-docs/web_dev_tools/netlify/open-authoring)
+  * [Netlify CMS](https://bryan-guner.gitbook.io/web-dev-hub-docs/web_dev_tools/netlify/netlify-cms)
+  * [Git Gateway](https://bryan-guner.gitbook.io/web-dev-hub-docs/web_dev_tools/netlify/git-gateway)
 
 ![](.gitbook/assets/image%20%281%29.png)
 
