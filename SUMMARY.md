@@ -42,7 +42,7 @@
 
 ## JavaScript
 
-* [Untitled](javascript/untitled.md)
+* [JavaScript](javascript/untitled.md)
 
 ## Web Development Frameworks & Libraries <a id="web-development-frameworks"></a>
 
