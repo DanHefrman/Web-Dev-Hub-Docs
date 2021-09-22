@@ -100,7 +100,7 @@
 ## Science & Tech \(Innovation\)
 
 * [Science & Tech](science-and-tech-innovation/untitled.md)
-* [Untitled](science-and-tech-innovation/untitled-1.md)
+* [Articles](science-and-tech-innovation/untitled-1.md)
 
 ## Reading
 
