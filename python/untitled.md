@@ -6,11 +6,15 @@
 
 ### This Website: <a id="this-website"></a>
 
-[Homepy-v2.gitbook.io](https://py-v2.gitbook.io/datastructures-in-pytho/)
+{% embed url="https://Homepy-v2.gitbook.io" %}
+
+
 
 ​
 
 ​[https://bgoonz42.gitbook.io/datastructures-in-pytho/datastructures-in-pytho/bgoonz42.gitbook.io](https://bgoonz42.gitbook.io/datastructures-in-pytho/datastructures-in-pytho/)
+
+
 
 ​
 
