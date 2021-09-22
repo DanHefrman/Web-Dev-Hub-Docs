@@ -1,5 +1,7 @@
 # Python
 
+
+
 {% embed url="https://py-v2.gitbook.io/datastructures-in-pytho/" %}
 
 
