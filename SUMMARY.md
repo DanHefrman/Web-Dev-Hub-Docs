@@ -124,3 +124,9 @@
   * [Intro](server-side/graphql/intro.md)
 * [REST-API](server-side/rest-api.md)
 
+## WEB\_DEV\_TOOLS
+
+* [Netlify](web_dev_tools/netlify/README.md)
+  * [Netlify CMS](web_dev_tools/netlify/netlify-cms.md)
+  * [Git Gateway](web_dev_tools/netlify/git-gateway.md)
+
