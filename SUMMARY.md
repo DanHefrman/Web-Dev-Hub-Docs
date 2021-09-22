@@ -5,20 +5,28 @@
 
 ## Tools
 
-* [Tools](tools/tools.md)
+* [Tools](tools/tools/README.md)
+  * [Heroku](tools/tools/heroku.md)
 * [Showcase](tools/showcase.md)
 
 ## Programming Languages
 
 * [Programming Languages](programming-languages/programming-languages/README.md)
+  * [Frameworks](programming-languages/programming-languages/frameworks/README.md)
+    * [Docker](programming-languages/programming-languages/frameworks/docker.md)
+  * [Git](programming-languages/programming-languages/git.md)
   * [Python](programming-languages/programming-languages/python/README.md)
+    * [Practice](programming-languages/programming-languages/python/practice.md)
     * [Pipenv](programming-languages/programming-languages/python/pipenv.md)
   * [Bash](programming-languages/programming-languages/bash.md)
   * [JavaScript](programming-languages/programming-languages/javascript/README.md)
     * [Express](programming-languages/programming-languages/javascript/express/README.md)
+      * [React](programming-languages/programming-languages/javascript/express/react.md)
       * [Sequelize](programming-languages/programming-languages/javascript/express/sequelize.md)
+      * [Regex](programming-languages/programming-languages/javascript/express/regex.md)
   * [Java](programming-languages/programming-languages/java.md)
   * [Html](programming-languages/programming-languages/html.md)
+  * [Markdown](programming-languages/programming-languages/markdown.md)
   * [CSS](programming-languages/programming-languages/css.md)
   * [SCSS](programming-languages/programming-languages/scss.md)
   * [C & C++](programming-languages/programming-languages/c-and-c++.md)
