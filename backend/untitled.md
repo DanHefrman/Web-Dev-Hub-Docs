@@ -105,7 +105,9 @@ As of [April 2020](https://www.glassdoor.com/Salaries/java-developer-salary-SRCH
 
 #### Backend Language \#2: PHP <a id="php"></a>
 
-[PHP](http://php.net/) powers [78.2% of all websites](https://w3techs.com/technologies/details/pl-php/all/all) whose server-side programming language we know. The language was first released in 1995 when there were few options for building dynamic websites.![PHP](https://learntocodewith.me/wp-content/uploads/2019/01/PHP.jpg)
+[PHP](http://php.net/) powers [78.2% of all websites](https://w3techs.com/technologies/details/pl-php/all/all) whose server-side programming language we know. The language was first released in 1995 when there were few options for building dynamic websites.
+
+![PHP](https://learntocodewith.me/wp-content/uploads/2019/01/PHP.jpg)
 
 Since PHP is dynamically typed, it means you’re able to come up with a variety of solutions and workarounds for one problem. It also means that the same bit of code can mean something different depending on the context, which makes programs written in PHP tricky to scale and sometimes slow to run.
 
@@ -273,7 +275,9 @@ Stop waiting and start learning! Get my 10 tips on teaching yourself how to code
 
 There’s a reason [Python](https://learntocodewith.me/go/goskills-python/) is the [fastest-growing programming language](https://www.techrepublic.com/article/which-is-the-fastest-growing-programming-language-hint-its-not-javascript/). The versatile language is used for both web and desktop development. Like with Java, there are plenty of tutorials and guides online, making it an accessible language for those just starting out.
 
-Furthermore, its syntax is simple and easy to understand compared to other backend languages. Those who program with Python have lauded it for its “elegant,” “readable,” and “beautiful” code on Stack Overflow.![Reasons to learn Python as a backend developer](https://learntocodewith.me/wp-content/uploads/2019/01/Python.jpg)
+Furthermore, its syntax is simple and easy to understand compared to other backend languages. Those who program with Python have lauded it for its “elegant,” “readable,” and “beautiful” code on Stack Overflow.
+
+![Reasons to learn Python as a backend developer](https://learntocodewith.me/wp-content/uploads/2019/01/Python.jpg)
 
 As mentioned above, Ruby and Python share similarities. They are both dynamically typed, open source, and object-oriented languages. The key differences between the two are the differences in popularity \(Ruby is declining whereas Python is skyrocketing\) and the tools in Ruby’s language.
 
