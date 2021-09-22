@@ -11,7 +11,16 @@
 ## Programming Languages
 
 * [Programming Languages](programming-languages/programming-languages/README.md)
+  * [Python](programming-languages/programming-languages/python.md)
   * [Bash](programming-languages/programming-languages/bash.md)
+  * [JavaScript](programming-languages/programming-languages/javascript.md)
+  * [Java](programming-languages/programming-languages/java.md)
+  * [Html](programming-languages/programming-languages/html.md)
+  * [CSS](programming-languages/programming-languages/css.md)
+  * [SCSS](programming-languages/programming-languages/scss.md)
+  * [C & C++](programming-languages/programming-languages/c-and-c++.md)
+  * [Ruby](programming-languages/programming-languages/ruby.md)
+  * [SQL](programming-languages/programming-languages/sql.md)
 * [What is a Programming Language?](programming-languages/what-is-a-programming-language.md)
 * [List Of Programming Languages By Type](programming-languages/list-of-programming-languages-by-type.md)
 
