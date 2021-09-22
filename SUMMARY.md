@@ -5,6 +5,7 @@
 ## Tools
 
 * [Tools](tools/tools.md)
+* [Showcase](tools/showcase.md)
 
 ## Programming Languages
 
