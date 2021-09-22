@@ -8,6 +8,8 @@
 
 {% embed url="https://github.com/bgoonz/BGOONZ\_BLOG\_2.0" %}
 
+{% embed url="https://codepen.io/bgoonz/embed/OJgxqbm?default-tab=result&editable=true&theme-id=light" caption="Website Navigation \(my websites\)" %}
+
 
 
 **WEBSITE ⇄ Portfolio ⇄ Collaborate ⇄ Other-Websites ⇄ Recent Work**
