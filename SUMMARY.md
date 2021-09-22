@@ -40,7 +40,7 @@
 
 ## Python
 
-* [Untitled](python/untitled.md)
+* [Python](python/untitled.md)
 
 ## JavaScript
 
