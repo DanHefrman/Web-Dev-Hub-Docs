@@ -80,7 +80,7 @@
 
 ## Networking
 
-* [Untitled](networking/untitled.md)
+* [Networks](networking/untitled.md)
 
 ## Resources
 
@@ -104,7 +104,7 @@
 
 ## Reading
 
-* [Untitled](reading/untitled.md)
+* [Reading](reading/untitled.md)
 
 ## Social Media & Trends
 
