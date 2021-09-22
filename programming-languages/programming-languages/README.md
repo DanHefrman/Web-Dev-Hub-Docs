@@ -1,12 +1,8 @@
 # Programming Languages
 
-
-
 ![](../../.gitbook/assets/image%20%281%29.png)
 
-
-
-### [A](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=1)
+## [A](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=1)
 
 * [A.NET \(A\#/A sharp\)](https://en.wikipedia.org/wiki/A_Sharp_%28.NET%29)
 * [A-0 System](https://en.wikipedia.org/wiki/A-0_System)
@@ -58,7 +54,7 @@
 * [AWK](https://en.wikipedia.org/wiki/AWK)
 * [Axum](https://en.wikipedia.org/wiki/Axum_%28programming_language%29)
 
-### [B](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=2)
+## [B](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=2)
 
 * [B](https://en.wikipedia.org/wiki/B_%28programming_language%29)
 * [Babbage](https://en.wikipedia.org/wiki/Babbage_%28programming_language%29)
@@ -78,7 +74,7 @@
 * [Boomerang](https://en.wikipedia.org/wiki/Boomerang_%28programming_language%29)
 * [Bosque](https://en.wikipedia.org/wiki/Bosque_%28programming_language%29)
 
-### [C](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=3)
+## [C](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=3)
 
 * [C](https://en.wikipedia.org/wiki/C_%28programming_language%29) – ISO/IEC 9899
 * [C--](https://en.wikipedia.org/wiki/C--) \(C minus minus\)
@@ -145,7 +141,7 @@
 * [Cython](https://en.wikipedia.org/wiki/Cython)
 * [CEEMAC](https://en.wikipedia.org/wiki/CEEMAC)
 
-### [D](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=4)
+## [D](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=4)
 
 * [D](https://en.wikipedia.org/wiki/D_%28programming_language%29)
 * [Dart](https://en.wikipedia.org/wiki/Dart_%28programming_language%29)
@@ -166,7 +162,7 @@
 * [DYNAMO](https://en.wikipedia.org/wiki/DYNAMO_%28programming_language%29)
 * [DAX \(Data Analysis Expressions\)](https://en.wikipedia.org/wiki/Data_analysis_expressions)
 
-### [E](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=5)
+## [E](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=5)
 
 * [E](https://en.wikipedia.org/wiki/E_%28programming_language%29)
 * [Ease](https://en.wikipedia.org/wiki/Ease_%28programming_language%29)
@@ -200,7 +196,7 @@
 * [Executable UML](https://en.wikipedia.org/wiki/Executable_UML)
 * [Ezhil](https://en.wikipedia.org/wiki/Ezhil_%28programming_language%29)
 
-### [F](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=6)
+## [F](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=6)
 
 * [F](https://en.wikipedia.org/wiki/F_%28programming_language%29)
 * [F\# \(F sharp\)](https://en.wikipedia.org/wiki/F_Sharp_%28programming_language%29)
@@ -231,7 +227,7 @@
 * [Futhark](https://en.wikipedia.org/wiki/Futhark_%28programming_language%29)
 * [F-Script](https://en.wikipedia.org/wiki/F-Script_%28programming_language%29)
 
-### [G](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=7)
+## [G](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=7)
 
 * [Game Maker Language](https://en.wikipedia.org/wiki/Game_Maker_Language) \([Scripting language](https://en.wikipedia.org/wiki/Scripting_language)\)
 * [GameMonkey Script](https://en.wikipedia.org/wiki/GameMonkey_Script)
@@ -260,7 +256,7 @@
 * [Grasshopper](https://en.wikipedia.org/wiki/Grasshopper_3D)
 * [Groovy \(Apache Groovy\)](https://en.wikipedia.org/wiki/Apache_Groovy)
 
-### [H](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=8)
+## [H](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=8)
 
 * [Hack](https://en.wikipedia.org/wiki/Hack_%28programming_language%29)
 * [HAGGIS](https://en.wikipedia.org/wiki/HAGGIS)
@@ -282,7 +278,7 @@
 * [Hume](https://en.wikipedia.org/wiki/Hume_%28language%29)
 * [HyperTalk](https://en.wikipedia.org/wiki/HyperTalk)
 
-### [I](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=9)
+## [I](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=9)
 
 * [Io](https://en.wikipedia.org/wiki/Io_%28programming_language%29)
 * [Icon](https://en.wikipedia.org/wiki/Icon_%28programming_language%29)
@@ -295,7 +291,7 @@
 * [Inform](https://en.wikipedia.org/wiki/Inform_%28programming_language%29)
 * [ISLISP](https://en.wikipedia.org/wiki/ISLISP)
 
-### [J](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=10)
+## [J](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=10)
 
 * [J](https://en.wikipedia.org/wiki/J_%28programming_language%29)
 * [J\# \(J sharp\)](https://en.wikipedia.org/wiki/J_Sharp)
@@ -322,7 +318,7 @@
 * [Julia](https://en.wikipedia.org/wiki/Julia_%28programming_language%29)
 * [Jython](https://en.wikipedia.org/wiki/Jython)
 
-### [K](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=11)
+## [K](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=11)
 
 * [K](https://en.wikipedia.org/wiki/K_%28programming_language%29)
 * [Kaleidoscope](https://en.wikipedia.org/wiki/Kaleidoscope_%28programming_language%29)
@@ -341,7 +337,7 @@
 * [Kodu](https://en.wikipedia.org/wiki/Kodu_Game_Lab)
 * [Kv \(Kivy\)](https://en.wikipedia.org/wiki/Kivy_%28framework%29#Kv_language)
 
-### [L](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=12)
+## [L](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=12)
 
 * [LabVIEW](https://en.wikipedia.org/wiki/LabVIEW)
 * [Ladder](https://en.wikipedia.org/wiki/Ladder_logic)
@@ -381,7 +377,7 @@
 * [LYaPAS](https://en.wikipedia.org/wiki/LYaPAS)
 * [Lynx](https://en.wikipedia.org/wiki/Lynx_%28programming_language%29)
 
-### [M](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=13)
+## [M](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=13)
 
 * [M2001](https://en.wikipedia.org/wiki/M2001)
 * [M4](https://en.wikipedia.org/wiki/M4_%28computer_language%29)
@@ -435,7 +431,7 @@
 * [Mutan](https://en.wikipedia.org/wiki/Ethereum#Programming_languages)
 * [Mystic Programming Language](https://en.wikipedia.org/wiki/Mystic_BBS) \(MPL\)
 
-### [N](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=14)
+## [N](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=14)
 
 * [NASM](https://en.wikipedia.org/wiki/Netwide_Assembler)
 * [Napier88](https://en.wikipedia.org/wiki/Napier88)
@@ -461,7 +457,7 @@
 * [NWScript](https://en.wikipedia.org/wiki/NWScript)
 * [NXT-G](https://en.wikipedia.org/wiki/NXT-G)
 
-### [O](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=15)
+## [O](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=15)
 
 * [o:XML](https://en.wikipedia.org/wiki/O:XML)
 * [Oak](https://en.wikipedia.org/wiki/Oak_%28programming_language%29)
@@ -494,7 +490,7 @@
 * [Oxygene](https://en.wikipedia.org/wiki/Oxygene_%28programming_language%29)
 * [Oz](https://en.wikipedia.org/wiki/Oz_%28programming_language%29)
 
-### [P](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=16)
+## [P](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=16)
 
 * [P](https://en.wikipedia.org/wiki/P_%28programming_language%29)
 * [P4](https://en.wikipedia.org/wiki/P4_%28programming_language%29)
@@ -559,7 +555,7 @@
 * [PureScript](https://en.wikipedia.org/wiki/PureScript)
 * [Python](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
 
-### [Q](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=17)
+## [Q](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=17)
 
 * [Q \(programming language from Kx Systems\)](https://en.wikipedia.org/wiki/Q_%28programming_language_from_Kx_Systems%29)
 * [Q\# \(Microsoft programming language\)](https://en.wikipedia.org/wiki/Q_Sharp)
@@ -570,7 +566,7 @@
 * [QPL](https://en.wikipedia.org/wiki/Quantum_programming)
 * [.QL](https://en.wikipedia.org/wiki/.QL)
 
-### [R](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=18)
+## [R](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=18)
 
 * [R](https://en.wikipedia.org/wiki/R_%28programming_language%29)
 * [R++](https://en.wikipedia.org/wiki/R%2B%2B)
@@ -596,7 +592,7 @@
 * [Ruby](https://en.wikipedia.org/wiki/Ruby_%28programming_language%29)
 * [Rust](https://en.wikipedia.org/wiki/Rust_%28programming_language%29)
 
-### [S](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=19)
+## [S](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=19)
 
 * [S](https://en.wikipedia.org/wiki/S_%28programming_language%29)
 * [S2](https://en.wikipedia.org/wiki/S2_%28programming_language%29)
@@ -669,7 +665,7 @@
 * [SYMPL](https://en.wikipedia.org/wiki/SYMPL)
 * [SystemVerilog](https://en.wikipedia.org/wiki/SystemVerilog)
 
-### [T](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=20)
+## [T](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=20)
 
 * [T](https://en.wikipedia.org/wiki/T_%28programming_language%29)
 * [TACL](https://en.wikipedia.org/wiki/TACL)
@@ -699,7 +695,7 @@
 * [TypeScript](https://en.wikipedia.org/wiki/TypeScript)
 * [Tynker](https://en.wikipedia.org/wiki/Tynker)
 
-### [U](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=21)
+## [U](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=21)
 
 * [Ubercode](https://en.wikipedia.org/wiki/Ubercode)
 * [UCSD Pascal](https://en.wikipedia.org/wiki/UCSD_Pascal)
@@ -709,7 +705,7 @@
 * [UNITY](https://en.wikipedia.org/wiki/UNITY_%28programming_language%29)
 * [UnrealScript](https://en.wikipedia.org/wiki/UnrealScript)
 
-### [V](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=22)
+## [V](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=22)
 
 * [Vala](https://en.wikipedia.org/wiki/Vala_%28programming_language%29)
 * [Verilog](https://en.wikipedia.org/wiki/Verilog)
@@ -724,7 +720,7 @@
 * [Visual Objects](https://en.wikipedia.org/wiki/Visual_Objects)
 * [Visual Prolog](https://en.wikipedia.org/wiki/Visual_Prolog)
 
-### [W](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=23)
+## [W](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=23)
 
 * [WATFIV, WATFOR \(WATerloo FORtran IV\)](https://en.wikipedia.org/wiki/WATFIV_%28programming_language%29)
 * [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)
@@ -734,7 +730,7 @@
 * [Wolfram Language](https://en.wikipedia.org/wiki/Wolfram_Language)
 * [Wyvern](https://en.wikipedia.org/wiki/Wyvern_%28programming_language%29)
 
-### [X](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=24)
+## [X](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=24)
 
 * [X++ \(X plus plus/Microsoft Dynamics AX\)](https://en.wikipedia.org/wiki/X%2B%2B)
 * [X10](https://en.wikipedia.org/wiki/X10_%28programming_language%29)
@@ -754,13 +750,13 @@
 * [XSLT](https://en.wikipedia.org/wiki/XSL_Transformations)
 * [Xtend](https://en.wikipedia.org/wiki/Xtend)
 
-### [Y](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=25)
+## [Y](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=25)
 
 * [Yorick](https://en.wikipedia.org/wiki/Yorick_%28programming_language%29)
 * [YQL](https://en.wikipedia.org/wiki/YQL_%28programming_language%29)
 * [Yoix](https://en.wikipedia.org/wiki/Yoix)
 
-### [Z](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=26)
+## [Z](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=26)
 
 * [Z notation](https://en.wikipedia.org/wiki/Z_notation)
 * [Z shell](https://en.wikipedia.org/wiki/Z_shell)
