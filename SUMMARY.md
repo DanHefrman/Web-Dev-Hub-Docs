@@ -85,17 +85,17 @@
 ## Resources
 
 * [Resources](resources/untitled.md)
-* [Untitled](resources/untitled-1.md)
+* [Video Resources](resources/untitled-1.md)
 
 ## General Knowledge
 
 * [General Knowledge](general-knowledge/untitled.md)
-* [Untitled](general-knowledge/untitled-1.md)
+* [Knowledge Bank](general-knowledge/untitled-1.md)
 
 ## Finance
 
 * [Finance](finance/untitled.md)
-* [Untitled](finance/untitled-1.md)
+* [Financial Trends](finance/untitled-1.md)
 
 ## Science & Tech \(Innovation\)
 
@@ -108,7 +108,7 @@
 
 ## Social Media & Trends
 
-* [Untitled](social-media-and-trends/untitled.md)
+* [Trends In Web Dev](social-media-and-trends/untitled.md)
 
 ## Docs
 
