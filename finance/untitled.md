@@ -1,3 +1,7 @@
+---
+description: quant stuff
+---
+
 # Finance
 
 ## awesome-finance
