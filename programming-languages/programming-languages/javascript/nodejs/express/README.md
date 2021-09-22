@@ -9,7 +9,7 @@ This tutorial will cover how to write **web services** that can communicate with
 * JavaScript is asynchronous, which allows us to take full advantage of the processor it’s running on. Taking full advantage of the processor is crucial because the node process will be running on a single CPU.
 * Using JavaScript gives us access to the npm repository. This repository is the largest ecosystem of useful libraries \(most of them free to use\) in **npm modules**.
 
-![](https://miro.medium.com/freeze/max/27/0*PTKhCN2p9S8EDZ4r.gif?q=20)![](https://miro.medium.com/max/630/0*PTKhCN2p9S8EDZ4r.gif)![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
+![](https://miro.medium.com/max/630/0*PTKhCN2p9S8EDZ4r.gif)
 
 ## Explain what Node.js is and its core features <a id="3e6e"></a>
 
@@ -38,7 +38,9 @@ To write a simple web server with `Node.js`:
 
 The request handler is a function that takes the `request` coming from the client and produces the `response`. The function takes two arguments: 1\) an object representing the `request` and 2\) an object representing the `response`.
 
-This process works, but the resulting code is verbose, even for the simplest of servers. Also, note that when using only Node.js to build a server, we use a single request handler function for all requests.![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
+This process works, but the resulting code is verbose, even for the simplest of servers. Also, note that when using only Node.js to build a server, we use a single request handler function for all requests.
+
+![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
 
 ## Try It Out: <a id="970f"></a>
 
@@ -61,7 +63,9 @@ const port = 3000; // a port we'll use to watch for trafficconst server = http.c
 
 Now navigate to the folder in a terminal/console window and type: `node index.js` to execute your file. A message that reads "_Server running at_ [_http://127.0.0.1:3000_](http://127.0.0.1:3000/)" should be displayed, and the server is now waiting for connections.
 
-Open a browser and visit: `http://localhost:3000`. `localhost` and the IP address `127.0.0.1` point to the same thing: your local computer. The browser should show the message: "_Hello World from Node_". There you have it, your first web server, built from scratch using nothing but `Node.js`.![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
+Open a browser and visit: `http://localhost:3000`. `localhost` and the IP address `127.0.0.1` point to the same thing: your local computer. The browser should show the message: "_Hello World from Node_". There you have it, your first web server, built from scratch using nothing but `Node.js`.
+
+![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
 
 ## Explain what Express is and its core features: <a id="bb8e"></a>
 
@@ -96,7 +100,9 @@ Some of the drawbacks of Express are:
 
 ## Main Features of Express <a id="1abb"></a>
 
-[Writing middleware for use in Express appsMiddleware functions are functions that have access to the request object \( req\), the response object \( res\), and the…expressjs.com](https://expressjs.com/en/guide/writing-middleware.html)![](https://miro.medium.com/max/27/0*rdSEy1R5exC2Rpul.png?q=20)![](https://miro.medium.com/max/369/0*rdSEy1R5exC2Rpul.png)
+[Writing middleware for use in Express appsMiddleware functions are functions that have access to the request object \( req\), the response object \( res\), and the…expressjs.com](https://expressjs.com/en/guide/writing-middleware.html)![](https://miro.medium.com/max/27/0*rdSEy1R5exC2Rpul.png?q=20)
+
+![](https://miro.medium.com/max/369/0*rdSEy1R5exC2Rpul.png)
 
 ## Middleware <a id="bb8d"></a>
 
@@ -124,7 +130,9 @@ Examples [from the Api Reference \(Links to an external site.\)](https://express
 
 ## Views <a id="0643"></a>
 
-Views provide a way to dynamically render HTML on the server and even generate it using other languages.![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
+Views provide a way to dynamically render HTML on the server and even generate it using other languages.
+
+![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
 
 ## Try It: <a id="f17f"></a>
 
@@ -148,7 +156,9 @@ server.listen(5000, () =>
 
 Run the server by typing: `node server.js` and visit `http://localhost:5000` in the browser.
 
-To stop the server, type `Ctrl + c` at the terminal window.![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
+To stop the server, type `Ctrl + c` at the terminal window.
+
+![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
 
 ## Create an API that can respond to GET requests <a id="4046"></a>
 
@@ -210,7 +220,9 @@ That’s all the configuring we need to do for this first example We’ll see ot
 
 After configuring the server, it’s time to turn it on. We use the `.listen()` method to monitor a port on the computer for any incoming connections and respond to those we have configured. Our server will only respond to `GET` requests made to the `/` route on port `8000`.
 
-That’s it for our first Web API, and now it’s time for you to follow along as we add a new **endpoint** to our server that returns JSON data!![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
+That’s it for our first Web API, and now it’s time for you to follow along as we add a new **endpoint** to our server that returns JSON data!
+
+![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
 
 ## Try It Out: <a id="ca9e"></a>
 
@@ -280,7 +292,9 @@ Now we can visit `http://localhost:8000/hobbits` in our browser, and we should g
 
 If you are using the Google Chrome browser, [this extension \(Links to an external site.\)](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) can format the JSON data in a more readable fashion.
 
-Congratulations! You just built an API that can return data in JSON format.![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
+Congratulations! You just built an API that can return data in JSON format.
+
+![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
 
 ## Let’s look at a basic example of routing in action. <a id="e37f"></a>
 
@@ -339,7 +353,9 @@ server.delete('/hobbits', (req, res) => {
 
 We are returning HTTP Status Code 204 \(No Content\). Suppose you are returning any data to the client, perhaps the removed resource, on successful deletes. In that case, you’d change that to be 200 instead.
 
-You may have noticed that we are not reading any data from the request, as that is something we’ll learn later in the module. We are about to learn how to use a tool called `Postman` to test our `POST`, `PUT`, and `DELETE` endpoints.![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
+You may have noticed that we are not reading any data from the request, as that is something we’ll learn later in the module. We are about to learn how to use a tool called `Postman` to test our `POST`, `PUT`, and `DELETE` endpoints.
+
+![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
 
 ## Reading and Using Route Parameters <a id="a9ee"></a>
 
@@ -370,7 +386,9 @@ This route handler will execute every `DELETE` for a URL that begins with `/hobb
 
 The value for a route parameter will always be `string`, even if the value passed is numeric. When hitting `/hobbits/123` in our example, the type of `req.params.id` will be `string`.
 
-Express routing has support for multiple route parameters. For example, defining a route URL that reads `/hobbits/:id/friends/:friendId`, will add properties for `id` and `friendId` to `req.params`.![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
+Express routing has support for multiple route parameters. For example, defining a route URL that reads `/hobbits/:id/friends/:friendId`, will add properties for `id` and `friendId` to `req.params`.
+
+![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
 
 ## Using the Query String <a id="7e1a"></a>
 
@@ -410,7 +428,9 @@ The parameter’s value will be of type `array` if more than one value is passed
 
 Another gotcha is that the names of query string parameters are case sensitive, `sortby` and `sortBy` are two different parameters.
 
-The rest of the code sorts the array before sending it back to the client.![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
+The rest of the code sorts the array before sending it back to the client.
+
+![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
 
 ## Reading Data from the Request Body <a id="a964"></a>
 
@@ -463,7 +483,9 @@ Let’s test it using Postman:
 }
 ```
 
-Click on `Send`, and the API should return the list of hobbits, including Sam!![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
+Click on `Send`, and the API should return the list of hobbits, including Sam!
+
+![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
 
 ## Try It: <a id="45d1"></a>
 
@@ -500,7 +522,9 @@ server.put('/hobbits/:id', (req, res) => {
 });
 ```
 
-Concentrate on the code related to reading the `id` from the `req.params` object and reading the hobbit information from `req.body`. The rest of the code will change as this is a simple example using an in-memory array. Most production APIs will use a database.![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
+Concentrate on the code related to reading the `id` from the `req.params` object and reading the hobbit information from `req.body`. The rest of the code will change as this is a simple example using an in-memory array. Most production APIs will use a database.
+
+![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
 
 ## TBC………………………………… <a id="c188"></a>
 
@@ -510,7 +534,9 @@ Concentrate on the code related to reading the `id` from the `req.params` object
 
 ## Discover More: <a id="cb1a"></a>
 
-[Web-Dev-HubMemoization, Tabulation, and Sorting Algorithms by Example Why is looking at runtime not a reliable method of…bgoonz-blog.netlify.app](https://bgoonz-blog.netlify.app/)![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
+[Web-Dev-HubMemoization, Tabulation, and Sorting Algorithms by Example Why is looking at runtime not a reliable method of…bgoonz-blog.netlify.app](https://bgoonz-blog.netlify.app/)
+
+![](https://miro.medium.com/max/900/1*nGyJHK1Q_sSB6fjbBbF3xA.png)
 
 ## Update\(Bonus Best Practices\): <a id="6468"></a>
 
