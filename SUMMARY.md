@@ -142,6 +142,7 @@
 
 * [Cloudinary](web_dev_tools/cloudinary.md)
 * [Postman](web_dev_tools/postman/README.md)
+  * [Creating an API](web_dev_tools/postman/creating-an-api.md)
   * [Trouble Shooting Postman](web_dev_tools/postman/trouble-shooting-postman.md)
 * [Netlify](web_dev_tools/netlify/README.md)
   * [Troubleshooting](web_dev_tools/netlify/troubleshooting.md)
