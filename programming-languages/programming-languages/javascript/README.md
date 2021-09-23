@@ -1,6 +1,6 @@
 # JavaScript
 
-{% page-ref page="../../../javascript/untitled.md" %}
+{% page-ref page="../../../javascript/untitled/" %}
 
 
 

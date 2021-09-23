@@ -1,6 +1,6 @@
 # JavaScript
 
-{% page-ref page="../programming-languages/programming-languages/javascript/" %}
+{% page-ref page="../../programming-languages/programming-languages/javascript/" %}
 
 
 
