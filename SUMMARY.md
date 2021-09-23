@@ -159,3 +159,7 @@
 
 * [A Quick Guide to Big-O Notation, Memoization, Tabulation, and Sorting Algorithms by Example](ds_algos_brainteasers/ds_algos_brainteasers.md)
 
+## Free-Stuff
+
+* [Free Stuff](free-stuff/free-stuff.md)
+
