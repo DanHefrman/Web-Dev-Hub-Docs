@@ -150,6 +150,7 @@
   * [Creating an API](web_dev_tools/postman/creating-an-api.md)
   * [Trouble Shooting Postman](web_dev_tools/postman/trouble-shooting-postman.md)
 * [Netlify](web_dev_tools/netlify/README.md)
+  * [Graph API](web_dev_tools/netlify/graph-api.md)
   * [Troubleshooting](web_dev_tools/netlify/troubleshooting.md)
   * [Examples](web_dev_tools/netlify/examples.md)
   * [HTTPS \(SSL\)](web_dev_tools/netlify/https-ssl.md)
