@@ -22,6 +22,7 @@
     * [SED](programming-languages/programming-languages/bash/sed.md)
   * [JavaScript](programming-languages/programming-languages/javascript/README.md)
     * [NodeJS](programming-languages/programming-languages/javascript/nodejs/README.md)
+      * [NPM](programming-languages/programming-languages/javascript/nodejs/npm.md)
       * [Express](programming-languages/programming-languages/javascript/nodejs/express/README.md)
         * [Sequelize](programming-languages/programming-languages/javascript/nodejs/express/sequelize.md)
     * [Regex](programming-languages/programming-languages/javascript/regex.md)
