@@ -143,5 +143,5 @@
 
 ## DS\_ALGOS\_BRAINTEASERS
 
-* [DS\_ALGOS\_BRAINTEASERS](ds_algos_brainteasers/ds_algos_brainteasers.md)
+* [A Quick Guide to Big-O Notation, Memoization, Tabulation, and Sorting Algorithms by Example](ds_algos_brainteasers/ds_algos_brainteasers.md)
 
