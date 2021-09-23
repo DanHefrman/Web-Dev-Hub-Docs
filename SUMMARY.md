@@ -119,6 +119,7 @@
 ## Social Media & Trends
 
 * [Trends In Web Dev](social-media-and-trends/untitled.md)
+* [FB-Dev-Open Source](social-media-and-trends/fb-dev-open-source.md)
 * [IG-API](social-media-and-trends/ig-api.md)
 
 ## Docs
