@@ -8,6 +8,7 @@
 * [Tools](tools/tools/README.md)
   * [Heroku](tools/tools/heroku.md)
 * [Showcase](tools/showcase.md)
+* [Downloads](tools/downloads.md)
 
 ## Programming Languages
 
