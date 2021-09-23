@@ -1,5 +1,9 @@
 # Showcase
 
+{% embed url="https://replit.com/@bgoonz/chess\#main.py" %}
+
+
+
 {% embed url="https://replit.com/@bgoonz/Calculator\#index.html" %}
 
 
