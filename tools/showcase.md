@@ -1,5 +1,7 @@
 # Showcase
 
+{% embed url="https://replit.com/@bgoonz/Calculator\#index.html" %}
+
 
 
 
@@ -73,6 +75,8 @@
 {% embed url="https://replit.com/@bgoonz/get-fetch-dog-spicific-breed\#index.html" %}
 {% endtab %}
 {% endtabs %}
+
+{% embed url="https://replit.com/@bgoonz/jquery-shopping-list-walkthrough-13-test1\#index.js" %}
 
 
 

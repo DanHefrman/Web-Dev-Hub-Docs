@@ -12,6 +12,7 @@
 ## Programming Languages
 
 * [Programming Languages](programming-languages/programming-languages/README.md)
+  * [List Of Programming Languages By Type](programming-languages/programming-languages/list-of-programming-languages-by-type.md)
   * [Tools-Of-The-Trade](programming-languages/programming-languages/frameworks/README.md)
     * [Linux](programming-languages/programming-languages/frameworks/linux.md)
     * [Docker](programming-languages/programming-languages/frameworks/docker.md)
@@ -40,7 +41,6 @@
   * [SQL](programming-languages/programming-languages/sql/README.md)
     * [PostgreSQL](programming-languages/programming-languages/sql/postgresql.md)
 * [What is a Programming Language?](programming-languages/what-is-a-programming-language.md)
-* [List Of Programming Languages By Type](programming-languages/list-of-programming-languages-by-type.md)
 
 ## Python
 
@@ -140,7 +140,9 @@
 
 * [Cloudinary](web_dev_tools/cloudinary.md)
 * [Netlify](web_dev_tools/netlify/README.md)
+  * [Troubleshooting](web_dev_tools/netlify/troubleshooting.md)
   * [Examples](web_dev_tools/netlify/examples.md)
+  * [HTTPS \(SSL\)](web_dev_tools/netlify/https-ssl.md)
   * [Open Authoring](web_dev_tools/netlify/open-authoring.md)
   * [Netlify CMS](web_dev_tools/netlify/netlify-cms.md)
   * [Git Gateway](web_dev_tools/netlify/git-gateway.md)
