@@ -2,6 +2,40 @@
 
 
 
+
+
+
+
+
+
+{% tabs %}
+{% tab title="Blog" %}
+
+{% tab title="Algorithms" %}
+
+{% tab title="Awesome Find:" %}
+
+{% tab %}
+Awesome Find:
+{% endtab %}
+
+{% tab title="DS Website" %}
+
+{% tab title="My Blog" %}
+
+{% tab title="CS-Unit" %}
+
+{% tab title="" %}
+[https://codesandbox.io/s/ys5bq](https://codesandbox.io/s/ys5bq)
+
+{% embed url="https://codesandbox.io/s/ys5bq" caption="" %}
+{% endtab %}
+{% endtabs %}
+
+## My Blog:
+
+
+
 {% embed url="https://codesandbox.io/embed/react-multi-carousel-playground-forked-lkw9f?fontsize=14&hidenavigation=1&theme=dark" %}
 
 
