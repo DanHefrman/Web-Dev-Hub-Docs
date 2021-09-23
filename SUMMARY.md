@@ -13,7 +13,6 @@
 
 * [Programming Languages](programming-languages/programming-languages/README.md)
   * [Tools-Of-The-Trade](programming-languages/programming-languages/frameworks/README.md)
-    * [Linux](programming-languages/programming-languages/frameworks/linux.md)
     * [Docker](programming-languages/programming-languages/frameworks/docker.md)
   * [Git](programming-languages/programming-languages/git.md)
   * [Python](programming-languages/programming-languages/python/README.md)
