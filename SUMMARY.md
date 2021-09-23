@@ -47,6 +47,7 @@
 ## JavaScript
 
 * [JavaScript](javascript/untitled.md)
+* [JS-Leetcode](javascript/js-leetcode.md)
 
 ## Web Development Frameworks & Libraries <a id="web-development-frameworks"></a>
 
