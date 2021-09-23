@@ -56,7 +56,8 @@
 ## Web Development Frameworks & Libraries <a id="web-development-frameworks"></a>
 
 * [React](web-development-frameworks/react.md)
-* [Jquery](web-development-frameworks/jquery.md)
+* [Jquery](web-development-frameworks/jquery/README.md)
+  * [Prac](web-development-frameworks/jquery/prac.md)
 * [GATSBY](web-development-frameworks/gatsby/README.md)
   * [Building with Components](web-development-frameworks/gatsby/building-with-components.md)
   * [Plugins, Themes, & Starters](web-development-frameworks/gatsby/plugins-themes-and-starters.md)
@@ -117,6 +118,7 @@
 ## Social Media & Trends
 
 * [Trends In Web Dev](social-media-and-trends/untitled.md)
+* [IG-API](social-media-and-trends/ig-api.md)
 
 ## Docs
 
