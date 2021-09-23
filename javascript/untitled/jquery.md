@@ -539,3 +539,616 @@ $(document).ready(function(){
 </script>
 ```
 
+
+
+## jQuery Show and Hide Effects
+
+In this tutorial you will learn how to show hide HTML elements using jQuery.
+
+### jQuery `show()` and `hide()` Methods
+
+You can show and hide HTML elements using the jQuery `show()` and `hide()` methods.
+
+The `hide()` method simply sets the [inline style](https://www.tutorialrepublic.com/html-tutorial/html-styles.php#inline-styles) `display: none` for the selected elements. Conversely, the `show()` method restores the [display properties](https://www.tutorialrepublic.com/css-tutorial/css-display.php) of the matched set of elements to whatever they initially were—typically block, inline, or inline-block—before the inline style `display: none` was applied to them. Here's is an example.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=show-hide-effects)
+
+```text
+<script>
+$(document).ready(function(){
+    // Hide displayed paragraphs
+    $(".hide-btn").click(function(){
+        $("p").hide();
+    });
+    
+    // Show hidden paragraphs
+    $(".show-btn").click(function(){
+        $("p").show();
+    });
+});
+</script>
+```
+
+You can optionally specify the duration \(also referred as speed\) parameter for making the jQuery show hide effect animated over a specified period of time.
+
+Durations can be specified either using one of the predefined string `'slow'` or `'fast'`, or in a number of milliseconds, for greater precision; higher values indicate slower animations.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=animated-show-hide-effects)
+
+```text
+<script>
+$(document).ready(function(){
+    // Hide displayed paragraphs with different speeds
+    $(".hide-btn").click(function(){
+        $("p.normal").hide();
+        $("p.fast").hide("fast");
+        $("p.slow").hide("slow");
+        $("p.very-fast").hide(50);
+        $("p.very-slow").hide(2000);
+    });
+    
+    // Show hidden paragraphs with different speeds
+    $(".show-btn").click(function(){
+        $("p.normal").show();
+        $("p.fast").show("fast");
+        $("p.slow").show("slow");
+        $("p.very-fast").show(50);
+        $("p.very-slow").show(2000);
+    });
+});
+</script>
+```
+
+**Note:** The speed or duration string `'fast'` indicates the durations of 200 milliseconds, while the string `'slow'` indicates the durations of 600 milliseconds.
+
+You can also specify a [callback function](https://www.tutorialrepublic.com/jquery-tutorial/jquery-callback.php) to be executed after the `show()` or `hide()` method completes. We'll learn more about the callback function in upcoming chapters.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=show-hide-effects-with-callback-function)
+
+```text
+<script>
+$(document).ready(function(){
+    // Display alert message after hiding paragraphs
+    $(".hide-btn").click(function(){
+        $("p").hide("slow", function(){
+            // Code to be executed
+            alert("The hide effect is completed.");
+        });
+    });
+    
+    // Display alert message after showing paragraphs
+    $(".show-btn").click(function(){
+        $("p").show("slow", function(){
+            // Code to be executed
+            alert("The show effect is completed.");
+        });
+    });
+});
+</script>
+```
+
+### jQuery `toggle()` Method
+
+The jQuery `toggle()` method show or hide the elements in such a way that if the element is initially displayed, it will be hidden; if hidden, it will be displayed \(i.e. toggles the visibility\).
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=toggle-effect)
+
+```text
+<script>
+$(document).ready(function(){
+    // Toggles paragraphs display
+    $(".toggle-btn").click(function(){
+        $("p").toggle();
+    });
+});
+</script>
+```
+
+Similarly, you can specify the duration parameter for the `toggle()` method to make it animated like the `show()` and `hide()` methods.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=animated-toggle-effect)
+
+```text
+<script>
+$(document).ready(function(){
+    // Toggles paragraphs with different speeds
+    $(".toggle-btn").click(function(){
+        $("p.normal").toggle();
+        $("p.fast").toggle("fast");
+        $("p.slow").toggle("slow");
+        $("p.very-fast").toggle(50);
+        $("p.very-slow").toggle(2000);
+    });
+});
+</script>
+```
+
+Similarly, you can also specify a [callback function](https://www.tutorialrepublic.com/jquery-tutorial/jquery-callback.php) for the `toggle()` method.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=toggle-effect-with-callback-function)
+
+```text
+<script>
+$(document).ready(function(){
+    // Display alert message after toggling paragraphs
+    $(".toggle-btn").click(function(){
+        $("p").toggle(1000, function(){
+            // Code to be executed
+            alert("The toggle effect is completed.");
+        });
+    });
+});
+</script>
+```
+
+
+
+## jQuery Fading Effects
+
+In this tutorial you will learn how to fade in and out elements using jQuery.
+
+### jQuery `fadeIn()` and `fadeOut()` Methods
+
+You can use the jQuery `fadeIn()` and `fadeOut()` methods to display or hide the HTML elements by gradually increasing or decreasing their opacity.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=fade-in-and-out-effects)
+
+```text
+<script>
+$(document).ready(function(){
+    // Fading out displayed paragraphs
+    $(".out-btn").click(function(){
+        $("p").fadeOut();
+    });
+    
+    // Fading in hidden paragraphs
+    $(".in-btn").click(function(){
+        $("p").fadeIn();
+    });
+});
+</script>
+```
+
+Like other jQuery effects methods, you can optionally specify the duration or speed parameter for the `fadeIn()` and `fadeOut()` methods to control how long the fading animation will run. Durations can be specified either using one of the predefined string `'slow'` or `'fast'`, or in a number of milliseconds; higher values indicate slower animations.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=set-the-duration-of-fade-in-and-out-effects)
+
+```text
+<script>
+$(document).ready(function(){
+    // Fading out displayed paragraphs with different speeds
+    $(".out-btn").click(function(){
+        $("p.normal").fadeOut();
+        $("p.fast").fadeOut("fast");
+        $("p.slow").fadeOut("slow");
+        $("p.very-fast").fadeOut(50);
+        $("p.very-slow").fadeOut(2000);
+    });
+    
+    // Fading in hidden paragraphs with different speeds
+    $(".in-btn").click(function(){
+        $("p.normal").fadeIn();
+        $("p.fast").fadeIn("fast");
+        $("p.slow").fadeIn("slow");
+        $("p.very-fast").fadeIn(50);
+        $("p.very-slow").fadeIn(2000);
+    });
+});
+</script>
+```
+
+**Note:** The effect of `fadeIn()`/`fadeOut()` method looks similar to `show()`/`hide()`, but unlike `show()`/`hide()` method the `fadeIn()`/`fadeOut()` method only animates the opacity of the target elements and does not animates their dimensions.
+
+You can also specify a [callback function](https://www.tutorialrepublic.com/jquery-tutorial/jquery-callback.php) to be executed after the `fadeIn()` or `fadeOut()` method completes. We'll learn more about the callback function in upcoming chapters.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=fade-in-and-out-effects-with-callback-function)
+
+```text
+<script>
+$(document).ready(function(){
+    // Display alert message after fading out paragraphs
+    $(".out-btn").click(function(){
+        $("p").fadeOut("slow", function(){
+            // Code to be executed
+            alert("The fade-out effect is completed.");
+        });
+    });
+    
+    // Display alert message after fading in paragraphs
+    $(".in-btn").click(function(){
+        $("p").fadeIn("slow", function(){
+            // Code to be executed
+            alert("The fade-in effect is completed.");
+        });
+    });
+});
+</script>
+```
+
+### jQuery `fadeToggle()` Method
+
+The jQuery `fadeToggle()` method display or hide the selected elements by animating their opacity in such a way that if the element is initially displayed, it will be fade out; if hidden, it will be fade in \(i.e. toggles the fading effect\).
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=fade-toggle-effect)
+
+```text
+<script>
+$(document).ready(function(){
+    // Toggles paragraphs display with fading
+    $(".toggle-btn").click(function(){
+        $("p").fadeToggle();
+    });
+});
+</script>
+```
+
+Similarly, you can specify the duration parameter for the `fadeToggle()` method like `fadeIn()`/`fadeOut()` method to control the duration or speed of the fade toggle animation.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=set-the-duration-of-fade-toggle-effect)
+
+```text
+<script>
+$(document).ready(function(){
+    // Fade Toggles paragraphs with different speeds
+    $(".toggle-btn").click(function(){
+        $("p.normal").fadeToggle();
+        $("p.fast").fadeToggle("fast");
+        $("p.slow").fadeToggle("slow");
+        $("p.very-fast").fadeToggle(50);
+        $("p.very-slow").fadeToggle(2000);
+    });
+});
+</script>
+```
+
+Similarly, you can also specify a [callback function](https://www.tutorialrepublic.com/jquery-tutorial/jquery-callback.php) for the `fadeToggle()` method.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=fade-toggle-effect-with-callback-function)
+
+```text
+<script>
+$(document).ready(function(){
+    // Display alert message after fade toggling paragraphs
+    $(".toggle-btn").click(function(){
+        $("p").fadeToggle(1000, function(){
+            // Code to be executed
+            alert("The fade-toggle effect is completed.");
+        });
+    });
+});
+</script>
+```
+
+### jQuery `fadeTo()` Method
+
+The jQuery `fadeTo()` method is similar to the `.fadeIn()` method, but unlike `.fadeIn()` the `fadeTo()` method lets you fade in the elements to a certain opacity level.$\(selector\).fadeTo\(speed, opacity, callback\);
+
+The required opacity parameter specifies the final opacity of the target elements that can be a number between 0 and 1. The duration or speed parameter is also required for this method that specifies the duration of the fade to animation.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=fade-to-effect)
+
+```text
+<script>
+$(document).ready(function(){
+    // Fade to paragraphs with different opacity
+    $(".to-btn").click(function(){
+        $("p.none").fadeTo("fast", 0);
+        $("p.partial").fadeTo("slow", 0.5);
+        $("p.complete").fadeTo(2000, 1);
+    });
+});
+</script>
+```
+
+
+
+## jQuery Sliding Effects
+
+In this tutorial you will learn how to create slide motion effect using jQuery.
+
+### jQuery `slideUp()` and `slideDown()` Methods
+
+The jQuery `slideUp()` and `slideDown()` methods is used to hide or show the HTML elements by gradually decreasing or increasing their height \(i.e. by sliding them up or down\).
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=slide-up-and-down-effects)
+
+```text
+<script>
+$(document).ready(function(){
+    // Slide up displayed paragraphs
+    $(".up-btn").click(function(){
+        $("p").slideUp();
+    });
+    
+    // Slide down hidden paragraphs
+    $(".down-btn").click(function(){
+        $("p").slideDown();
+    });
+});
+</script>
+```
+
+Like other jQuery effects methods, you can optionally specify the duration or speed parameter for the `slideUp()` and `slideDown()` methods to control how long the slide animation will run. Durations can be specified either using one of the predefined string `'slow'` or `'fast'`, or in a number of milliseconds; higher values indicate slower animations.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=set-the-duration-of-slide-up-and-down-effects)
+
+```text
+<script>
+$(document).ready(function(){
+    // Sliding up displayed paragraphs with different speeds
+    $(".up-btn").click(function(){
+        $("p.normal").slideUp();
+        $("p.fast").slideUp("fast");
+        $("p.slow").slideUp("slow");
+        $("p.very-fast").slideUp(50);
+        $("p.very-slow").slideUp(2000);
+    });
+    
+    // Sliding down hidden paragraphs with different speeds
+    $(".down-btn").click(function(){
+        $("p.normal").slideDown();
+        $("p.fast").slideDown("fast");
+        $("p.slow").slideDown("slow");
+        $("p.very-fast").slideDown(50);
+        $("p.very-slow").slideDown(2000);
+    });
+});
+</script>
+```
+
+You can also specify a [callback function](https://www.tutorialrepublic.com/jquery-tutorial/jquery-callback.php) to be executed after the `slideUp()` or `slideDown()` method completes. We'll learn more about the callback function in upcoming chapters.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=slide-up-and-down-effects-with-callback-function)
+
+```text
+<script>
+$(document).ready(function(){
+    // Display alert message after sliding up paragraphs
+    $(".up-btn").click(function(){
+        $("p").slideUp("slow", function(){
+            // Code to be executed
+            alert("The slide-up effect is completed.");
+        });
+    });
+    
+    // Display alert message after sliding down paragraphs
+    $(".down-btn").click(function(){
+        $("p").slideDown("slow", function(){
+            // Code to be executed
+            alert("The slide-down effect is completed.");
+        });
+    });
+});
+</script>
+```
+
+### jQuery `slideToggle()` Method
+
+The jQuery `slideToggle()` method show or hide the selected elements by animating their height in such a way that if the element is initially displayed, it will be slide up; if hidden, it will be slide down i.e. toggles between the `slideUp()` and `slideDown()` methods.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=slide-toggle-effect)
+
+```text
+<script>
+$(document).ready(function(){
+    // Toggles paragraphs display with sliding
+    $(".toggle-btn").click(function(){
+        $("p").slideToggle();
+    });
+});
+</script>
+```
+
+Similarly, you can specify the duration parameter for the `slideToggle()` method like `slideUp()` and `slideDown()` methods to control the speed of the slide toggle animation.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=set-the-duration-of-slide-toggle-effect)
+
+```text
+<script>
+$(document).ready(function(){
+    // Slide Toggles paragraphs with different speeds
+    $(".toggle-btn").click(function(){
+        $("p.normal").slideToggle();
+        $("p.fast").slideToggle("fast");
+        $("p.slow").slideToggle("slow");
+        $("p.very-fast").slideToggle(50);
+        $("p.very-slow").slideToggle(2000);
+    });
+});
+</script>
+```
+
+Similarly, you can also specify a [callback function](https://www.tutorialrepublic.com/jquery-tutorial/jquery-callback.php) for the `slideToggle()` method.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=slide-toggle-effect-with-callback-function)
+
+```text
+<script>
+$(document).ready(function(){
+    // Display alert message after slide toggling paragraphs
+    $(".toggle-btn").click(function(){
+        $("p").slideToggle(1000, function(){
+            // Code to be executed
+            alert("The slide-toggle effect is completed.");
+        });
+    });
+});
+</script>
+```
+
+
+
+## jQuery Animation Effects
+
+In this tutorial you will learn how to animate CSS properties using jQuery.
+
+### jQuery `animate()` Method
+
+The jQuery `animate()` method is used to create custom animations. The `animate()` method is typically used to animate numeric CSS properties, for example, [`width`](https://www.tutorialrepublic.com/css-reference/css-width-property.php), [`height`](https://www.tutorialrepublic.com/css-reference/css-height-property.php), [`margin`](https://www.tutorialrepublic.com/css-reference/css-margin-property.php), [`padding`](https://www.tutorialrepublic.com/css-reference/css-padding-property.php), [`opacity`](https://www.tutorialrepublic.com/css-reference/css-opacity-property.php), [`top`](https://www.tutorialrepublic.com/css-reference/css-top-property.php), [`left`](https://www.tutorialrepublic.com/css-reference/css-left-property.php), etc. but the non-numeric properties such as [`color`](https://www.tutorialrepublic.com/css-reference/css-color-property.php) or [`background-color`](https://www.tutorialrepublic.com/css-reference/css-background-color-property.php) cannot be animated using the basic jQuery functionality.
+
+**Note:** Not all CSS properties are animatable. In general, any CSS property that accepts values that are numbers, lengths, percentages, or colors is animatable. However, the color animation is not support by the core jQuery library. To manipulate and animate the color use the [jQuery color plugin](https://github.com/jquery/jquery-color).
+
+### Syntax
+
+The basic syntax of the jQuery `animate()` method can be given with:$\(selector\).animate\({ properties }, duration, callback\);
+
+The parameters of the `animate()` method have the following meanings:
+
+* The required properties parameter defines the [CSS properties](https://www.tutorialrepublic.com/css-reference/css3-properties.php) to be animated.
+* The optional duration parameter specifies how long the animation will run. Durations can be specified either using one of the predefined string `'slow'` or `'fast'`, or in a number of milliseconds; higher values indicate slower animations.
+* The optional [callback](https://www.tutorialrepublic.com/jquery-tutorial/jquery-callback.php) parameter is a function to call once the animation is complete.
+
+Here's a simple example of the jQuery `animate()` method that animates an image from its original position to the right by 300 pixels on click of the button.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=animation)
+
+```text
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+        $("img").animate({
+            left: 300
+        });
+    });
+});
+</script>
+```
+
+**Note:** All HTML elements have static position by default. Since the static element cannot be moved, so you must set the CSS [`position`](https://www.tutorialrepublic.com/css-reference/css-position-property.php) property for the element to `relative`, `fixed`, or `absolute` to manipulate or animate its position.
+
+### Animate Multiple Properties At Once
+
+You can also animate multiple properties of an element together at the same time using the `animate()` method. All the properties animated simultaneously without any delay.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=animate-multiple-css-properties)
+
+```text
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+        $(".box").animate({
+            width: "300px",
+            height: "300px",
+            marginLeft: "150px",
+            borderWidth: "10px",
+            opacity: 0.5
+        });
+    });
+});
+</script>
+```
+
+**Note:** The [CSS properties](https://www.tutorialrepublic.com/css-reference/css3-properties.php) names must be camel-cased when using with the `animate()` method, e.g. if you want to animate the font size you need to write `'fontSize'` rather than `'`[`font-size`](https://www.tutorialrepublic.com/css-reference/css-font-size-property.php)`'`. Similarly, write `'marginLeft'` instead of `'`[`margin-left`](https://www.tutorialrepublic.com/css-reference/css-margin-left-property.php)`'`, `'borderWidth'` instead of `'`[`border-width`](https://www.tutorialrepublic.com/css-reference/css-border-width-property.php)`'`, and so on.
+
+**Tip:** You must set the [`border-style`](https://www.tutorialrepublic.com/css-reference/css-border-style-property.php) property for the element before animating its [`border-width`](https://www.tutorialrepublic.com/css-reference/css-border-width-property.php) property. An element must have borders before you can animate the border width, because the default value of the `border-style` property is `none`.
+
+### Animate Multiple Properties One by One or Queued Animations
+
+You can also animate the multiple properties of an element one by one individually in a queue using the jQuery's chaining feature. We'll learn more about chaining in next chapter.
+
+The following example demonstrates a jQuery queued or chained animation, where each animation will start once the previous animation on the element has completed.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=queued-animation)
+
+```text
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+        $(".box")
+            .animate({width: "300px"})
+            .animate({height: "300px"})
+            .animate({marginLeft: "150px"})
+            .animate({borderWidth: "10px"})
+            .animate({opacity: 0.5});
+    });
+});
+</script>
+```
+
+### Animate Properties with Relative Values
+
+You can also define the relative values for the animated properties. If a value is specified with a leading `+=` or `-=` prefix, then the target value is calculated by adding or subtracting the given number from the current value of the property.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=animate-css-property-with-relative-values)
+
+```text
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+        $(".box").animate({            
+            top: "+=50px",
+            left: "+=50px",
+            width: "+=50px",
+            height: "+=50px"
+        });
+    });
+});
+</script>
+```
+
+### Animate Properties with Pre-defined Values
+
+In addition to the numeric values, each property can take the strings `'show'`, `'hide'`, and `'toggle'`. It will be very helpful in a situation when you simply want to animate the property from its current value to the initial value and vice versa.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=animate-css-property-with-pre-defined-values)
+
+```text
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+        $(".box").animate({
+            width: 'toggle'
+        });
+    });
+});
+</script>
+```
+
