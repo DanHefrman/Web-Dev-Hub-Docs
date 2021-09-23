@@ -140,7 +140,8 @@
 ## WEB\_DEV\_TOOLS
 
 * [Cloudinary](web_dev_tools/cloudinary.md)
-* [Postman](web_dev_tools/postman.md)
+* [Postman](web_dev_tools/postman/README.md)
+  * [Trouble Shooting Postman](web_dev_tools/postman/trouble-shooting-postman.md)
 * [Netlify](web_dev_tools/netlify/README.md)
   * [Troubleshooting](web_dev_tools/netlify/troubleshooting.md)
   * [Examples](web_dev_tools/netlify/examples.md)

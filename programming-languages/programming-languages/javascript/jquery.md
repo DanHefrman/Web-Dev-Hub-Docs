@@ -73,5 +73,82 @@ In this section, we will perform a simple jQuery operation by changing the color
 
 ![](../../../.gitbook/assets/image%20%284%29.png)
 
+## jQuery Syntax
 
+In this tutorial you will learn how to write the jQuery code.
+
+### Standard jQuery Syntax
+
+A jQuery statement typically starts with the dollar sign \(`$`\) and ends with a semicolon \(`;`\).
+
+In jQuery, the dollar sign \(`$`\) is just an alias for jQuery. Let's consider the following example code which demonstrates the most basic statement of the jQuery.
+
+
+
+```markup
+<script>
+    $(document).ready(function(){
+        // Some code to be executed...
+        alert("Hello World!");
+    });
+</script>
+```
+
+The above example simply displays an alert message "Hello World!" to the user.
+
+### Explanation of code
+
+If you are completely new to the jQuery, you might think what that code was all about. OK, let's go through each of the parts of this script one by one.
+
+* The `<script>` element — Since jQuery is just a JavaScript library, so the jQuery code can be placed inside the [`<script>`](https://www.tutorialrepublic.com/html-reference/html-script-tag.php) element. However, if you want to place it in an [external JavaScript file](https://www.tutorialrepublic.com/html-tutorial/html-scripts.php), which is preferred, you just remove this part.
+* The `$(document).ready(handler);` — This statement is typically known as ready event. Where the _handler_ is basically a function that is passed to the `ready()` method to be executed safely as soon as the document is ready to be manipulated i.e. when the DOM hierarchy has been fully constructed.
+
+The jQuery `ready()` method is typically used with an anonymous function. So, the above example can also be written in a shorthand notation like this:  
+
+
+```markup
+<script>
+    $(function(){
+        // Some code to be executed...
+        alert("Hello World!");
+    });
+</script>
+```
+
+{% hint style="info" %}
+**Tip:** You can use any syntax you like as both the syntax are equivalent. However, the document ready event is easier to understand when reading the code.
+
+Further, inside an event handler function you can write the jQuery statements to perform any action following the basic syntax, like: `$(selector).action();`
+{% endhint %}
+
+\*\*\*\*
+
+Where, the `$(selector)` basically selects the HTML elements from the DOM tree so that it can be manipulated and the `action()` applies some action on the selected elements such as changes the CSS property value, or sets the element's contents, etc. Let's consider another example that sets the paragraph text after the DOM is ready:
+
+
+
+```markup
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>jQuery Document Ready Demo</title>
+    <link rel="stylesheet" type="text/css" href="/examples/css/style.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $("p").text("Hello World!");
+        });
+    </script>
+</head>
+<body>
+    <p>Not loaded yet.</p>
+</body>
+</html>
+
+```
+
+
+
+![](../../../.gitbook/assets/image%20%285%29.png)
 
