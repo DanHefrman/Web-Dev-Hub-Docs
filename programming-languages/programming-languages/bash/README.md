@@ -1,5 +1,9 @@
 # Bash
 
+{% file src="../../../.gitbook/assets/tlcl-19.01.pdf" caption="linux-command-line" %}
+
+
+
 
 
 ## Manual Pages
