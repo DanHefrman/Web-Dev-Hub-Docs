@@ -1152,3 +1152,143 @@ $(document).ready(function(){
 </script>
 ```
 
+
+
+## jQuery Chaining
+
+In this tutorial you will learn how chain multiple methods in jQuery.
+
+### jQuery Method Chaining
+
+The jQuery provides another robust feature called method chaining that allows us to perform multiple action on the same set of elements, all within a single line of code.
+
+This is possible because most of the jQuery methods return a jQuery object that can be further used to call another method. Here's an example.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=method-chaining)
+
+```text
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+        $("p").animate({width: "100%"}).animate({fontSize: "46px"}).animate({borderWidth: 30});
+    });
+});  
+</script>
+```
+
+The above example demonstrate the chaining of three `animate()` method. When a user click the trigger button, it expands the [`<p>`](https://www.tutorialrepublic.com/html-reference/html-p-tag.php) to 100% width. Once the [`width`](https://www.tutorialrepublic.com/css-reference/css-width-property.php) change is complete the [`font-size`](https://www.tutorialrepublic.com/css-reference/css-font-size-property.php) is start animating and after its completion, the [`border`](https://www.tutorialrepublic.com/css-reference/css-border-property.php) animation will begin.
+
+**Tip:** The method chaining not only helps you to keep your jQuery code concise, but it also can improve your script's performance since browser doesn't have to find the same elements multiple times to do something with them.
+
+You can also break a single line of code into multiple lines for greater readability. For example, the sequence of methods in the above example could also be written as:
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=breaking-method-chaining-code-in-multiple-lines)
+
+```text
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+        $("p")
+            .animate({width: "100%"})
+            .animate({fontSize: "46px"})
+            .animate({borderWidth: 30});
+    });
+});  
+</script>
+```
+
+Some jQuery methods doesn't return the jQuery object. In general, [setters](https://www.tutorialrepublic.com/jquery-tutorial/jquery-getter-and-setter.php) i.e. methods that assign some value on a selection return a jQuery object, that allows you to continue calling jQuery methods on your selection. Whereas, [getters](https://www.tutorialrepublic.com/jquery-tutorial/jquery-getter-and-setter.php) return the requested value, so you can't continue to call jQuery methods on the value returned by the getter.
+
+A typical example of this scenario is the `html()` method. If no parameters are passed to it, the HTML contents of the selected element is returned instead of a jQuery object.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=method-chaining-exceptions)
+
+```text
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+        // This will work
+        $("h1").html("Hello World!").addClass("test");
+        
+        // This will NOT work
+        $("p").html().addClass("test");
+    });
+});
+</script>
+```
+
+## jQuery Callback
+
+In this tutorial you will learn how define a callback function for the jQuery effect.
+
+### jQuery Callback Functions
+
+JavaScript statements are executed line by line. But, since jQuery effect takes some time to finish the next line code may execute while the previous effect is still running. To prevent this from happening jQuery provides a callback function for each effect method.
+
+A callback function is a function that is executed once the effect is complete. The callback function is passed as an argument to the effect methods and they typically appear as the last argument of the method. For example, the basic syntax of the jQuery `slideToggle()` effect method with a callback function can be given with:$\(selector\).slideToggle\(duration, callback\);
+
+Consider the following example in which we've placed the `slideToggle()` and `alert()` statements next to each other. If you try this code the alert will be displayed immediately once you click the trigger button without waiting for slide toggle effect to complete.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=method-without-callback)
+
+```text
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+        $("p").slideToggle("slow");
+        alert("The slide toggle effect has completed.");
+    });   
+});
+</script>
+```
+
+And, here's the modified version of the pevious example in which we've placed the `alert()` statement inside a callback function for the `slideToggle()` method. If you try this code the alert message will be displayed once the slide toggle effect has completed.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=method-with-callback)
+
+```text
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+        $("p").slideToggle("slow", function(){
+            // Code to be executed once effect is complete
+            alert("The slide toggle effect has completed.");
+        });
+    });   
+});
+</script>
+```
+
+Similarly, you can define the callback functions for the other jQuery effect methods, like `show()`, `hide()`, `fadeIn()`, `fadeOut()`, `animate()`, etc.
+
+**Note:** If the effect method is applied to multiple elements, then the callback function is executed once for each selected element, not once for all.
+
+**Example**
+
+[Try this code »](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=callback-executed-multiple-times)
+
+```text
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+        $("h1, p").slideToggle("slow", function(){
+            // Code to be executed once effect is complete
+            alert("The slide toggle effect has completed.");
+        });
+    });   
+});
+</script>
+```
+
+If you try the above example code, it will display the same alert message two times once per [`<h1>`](https://www.tutorialrepublic.com/html-reference/html-headings-tag.php) and [`<p>`](https://www.tutorialrepublic.com/html-reference/html-p-tag.php) element, upon clicking the trigger button.
+

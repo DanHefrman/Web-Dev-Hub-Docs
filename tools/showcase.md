@@ -1,5 +1,11 @@
 # Showcase
 
+{% embed url="https://Quiz.bgoonz.repl.co" %}
+
+{% embed url="https://replit.com/@bgoonz/Quiz\#index.html" %}
+
+
+
 {% embed url="https://replit.com/@bgoonz/chess\#main.py" %}
 
 
