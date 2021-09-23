@@ -23,6 +23,7 @@
   * [Bash](programming-languages/programming-languages/bash/README.md)
     * [SED](programming-languages/programming-languages/bash/sed.md)
   * [JavaScript](programming-languages/programming-languages/javascript/README.md)
+    * [jQuery](programming-languages/programming-languages/javascript/jquery.md)
     * [NodeJS](programming-languages/programming-languages/javascript/nodejs/README.md)
       * [Node argv](programming-languages/programming-languages/javascript/nodejs/node-argv.md)
       * [NPM](programming-languages/programming-languages/javascript/nodejs/npm.md)
@@ -139,6 +140,7 @@
 ## WEB\_DEV\_TOOLS
 
 * [Cloudinary](web_dev_tools/cloudinary.md)
+* [Postman](web_dev_tools/postman.md)
 * [Netlify](web_dev_tools/netlify/README.md)
   * [Troubleshooting](web_dev_tools/netlify/troubleshooting.md)
   * [Examples](web_dev_tools/netlify/examples.md)
