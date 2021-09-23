@@ -141,3 +141,7 @@
   * [Netlify CMS](web_dev_tools/netlify/netlify-cms.md)
   * [Git Gateway](web_dev_tools/netlify/git-gateway.md)
 
+## DS\_ALGOS\_BRAINTEASERS
+
+* [DS\_ALGOS\_BRAINTEASERS](ds_algos_brainteasers/ds_algos_brainteasers.md)
+
