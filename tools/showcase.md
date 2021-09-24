@@ -81,5 +81,39 @@
 
 {% embed url="https://stackblitz.com/edit/slidev-dwyz44?devtoolsheight=33&embed=1&file=README.md&theme=dark" %}
 
+{% embed url="https://codepen.io/bgoonz/pen/MWbxYme" %}
+
+
+
+{% embed url="https://codepen.io/bgoonz/pen/mdwGxbR" %}
+
+
+
+{% embed url="https://codepen.io/bgoonz/pen/MWpVVLP" %}
+
+
+
+{% embed url="https://codepen.io/bgoonz/pen/gOmeeEm" %}
+
+{% embed url="https://codepen.io/bgoonz/pen/QWpmmom" %}
+
+{% embed url="https://codepen.io/bgoonz/pen/QWpmXxq" %}
+
+{% embed url="https://codepen.io/bgoonz/pen/JjExopj" %}
+
+
+
+{% embed url="https://codepen.io/bgoonz/pen/LYxqEZP" %}
+
+
+
+{% embed url="https://codepen.io/bgoonz/pen/eYgxmyx" %}
+
+
+
+{% embed url="https://codepen.io/bgoonz/pen/NWdoWvN" %}
+
+
+
 
 
