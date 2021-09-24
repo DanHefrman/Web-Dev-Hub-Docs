@@ -68,8 +68,6 @@
 
 {% embed url="https://codepen.io/bgoonz/pen/jOydEBz" caption="" %}
 
-{% embed url="https://codesandbox.io/embed/elegant-frog-6z855?fontsize=14&hidenavigation=1&theme=dark" caption="" %}
-
 {% embed url="https://stackblitz.com/edit/slidev-dwyz44?embed=1&file=README.md" caption="" %}
 
 {% embed url="https://stackblitz.com/edit/slidev-dwyz44?devtoolsheight=33&embed=1&file=README.md&theme=dark" caption="" %}
