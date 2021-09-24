@@ -98,6 +98,8 @@
 
 {% embed url="https://replit.com/@bgoonz/jquery-shopping-list-walkthrough-13-test1\#index.js" %}
 
+{% embed url="https://stackblitz.com/edit/slidev-dwyz44?embed=1&file=README.md" %}
+
 
 
 
@@ -105,14 +107,10 @@
 {% embed url="https://codesandbox.io/embed/gatsby-site-forked-hbbi6?fontsize=14&hidenavigation=1&theme=dark" %}
 
 
-{% embed url="https://codepen.io/bgoonz/pen/LYLOjmL" %}
 
-{% embed url="https://codepen.io/bgoonz/pen/dyOaoXb" %}
 
-{% embed url="https://codepen.io/bgoonz/pen/MWbxYme" %}
 
-{% embed url="https://codepen.io/bgoonz/pen/abpWrBP" %}
 
-{% embed url="https://codepen.io/bgoonz/pen/wvgqmMe" %}
 
-{% embed url="https://codepen.io/bgoonz/pen/ExZbOxE" %}
+
+
