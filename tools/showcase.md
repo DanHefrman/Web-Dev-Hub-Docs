@@ -114,8 +114,6 @@
 
 {% embed url="https://codepen.io/bgoonz/pen/jOydEBz" %}
 
-
-
 {% embed url="https://codepen.io/bgoonz/pen/PoWVovN" %}
 
 
