@@ -13,12 +13,6 @@
 
 {% embed url="https://codesandbox.io/embed/wonderful-cohen-ee9nm?fontsize=14&hidenavigation=1&theme=dark" caption="" %}
 
-
-
-[https://jsfiddle.net/bgoonz/L6082jrs/](https://jsfiddle.net/bgoonz/L6082jrs/)
-
-{% tabs %}
-
 {% embed url="https://codesandbox.io/s/ys5bq" caption="" %}
 
 {% embed url="https://codesandbox.io/s/gatsby-site-forked-e3vn7" caption="" %}
