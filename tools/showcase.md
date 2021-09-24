@@ -79,5 +79,7 @@
 
 {% embed url="https://stackblitz.com/edit/slidev-dwyz44?embed=1&file=README.md" %}
 
+{% embed url="https://stackblitz.com/edit/slidev-dwyz44?devtoolsheight=33&embed=1&file=README.md&theme=dark" %}
+
 
 
