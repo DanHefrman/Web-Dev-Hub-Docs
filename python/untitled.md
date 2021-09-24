@@ -2,6 +2,8 @@
 
 {% page-ref page="../programming-languages/programming-languages/python/" %}
 
+{% embed url="https://gist.github.com/bgoonz/999163a278b987fe47fb247fd4d66904" %}
+
 
 
 ​

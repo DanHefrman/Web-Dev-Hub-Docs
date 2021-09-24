@@ -6,6 +6,7 @@
 ## Tools
 
 * [Tools](tools/tools/README.md)
+  * [Docker](tools/tools/docker.md)
   * [Heroku](tools/tools/heroku.md)
 * [Showcase](tools/showcase.md)
 * [Downloads](tools/downloads.md)
@@ -142,6 +143,7 @@
 * [GraphQL](server-side/graphql/README.md)
   * [Intro](server-side/graphql/intro.md)
 * [REST-API](server-side/rest-api.md)
+* [Public APIs](server-side/public-apis.md)
 
 ## WEB\_DEV\_TOOLS
 
