@@ -1,7 +1,5 @@
 # Showcase
 
-{% embed url="https://Quiz.bgoonz.repl.co" caption="" %}
-
 {% embed url="https://replit.com/@bgoonz/Quiz\#index.html" caption="" %}
 
 {% embed url="https://codepen.io/bgoonz/pen/mdRvdzd" %}
@@ -28,11 +26,7 @@
 
 {% embed url="https://codesandbox.io/s/ys5bq" caption="" %}
 
-## My Blog:
-
 {% embed url="https://codesandbox.io/embed/react-multi-carousel-playground-forked-lkw9f?fontsize=14&hidenavigation=1&theme=dark" caption="" %}
-
-{% embed url="https://jsfiddle.net/bgoonz/1dye9uws/3/\#&togetherjs=3Jofy0rpxG" caption="" %}
 
 {% embed url="https://codesandbox.io/s/hbbi6" caption="" %}
 
