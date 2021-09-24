@@ -1,5 +1,21 @@
 # Showcase
 
+{% embed url="https://codesandbox.io/embed/idk-forked-4binh?fontsize=14&hidenavigation=1&theme=dark" %}
+
+
+
+{% embed url="https://codesandbox.io/embed/main-py-repo-2y5wb?fontsize=14&hidenavigation=1&theme=dark" %}
+
+
+
+{% embed url="https://p8j5h.csb.app/" %}
+
+
+
+{% embed url="https://codesandbox.io/embed/goofy-ellis-2zfc8?fontsize=14&hidenavigation=1&theme=dark" %}
+
+
+
 {% embed url="https://codesandbox.io/embed/iframe-inception-forked-7zh6v?fontsize=14&hidenavigation=1&theme=dark" %}
 
 
