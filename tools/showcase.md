@@ -4,6 +4,10 @@
 
 {% embed url="https://replit.com/@bgoonz/Quiz\#index.html" caption="" %}
 
+{% embed url="https://codepen.io/bgoonz/pen/mdRvdzd" %}
+
+
+
 {% embed url="https://replit.com/@bgoonz/chess\#main.py" caption="" %}
 
 {% embed url="https://replit.com/@bgoonz/Calculator\#index.html" caption="" %}
@@ -112,7 +116,11 @@
 
 {% embed url="https://codepen.io/bgoonz/pen/KKaJwgo" %}
 
+{% embed url="https://codepen.io/bgoonz/pen/jOydEBz" %}
 
+
+
+{% embed url="https://codepen.io/bgoonz/pen/PoWVovN" %}
 
 
 
