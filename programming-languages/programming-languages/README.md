@@ -30,7 +30,7 @@
 
 {% page-ref page="sql/" %}
 
-![](../../.gitbook/assets/image%20%282%29%20%282%29%20%283%29%20%283%29.png)
+![](../../.gitbook/assets/image%20%282%29%20%282%29%20%283%29%20%283%29%20%283%29.png)
 
 ## [A](https://en.wikipedia.org/w/index.php?title=List_of_programming_languages&action=edit&section=1)
 
