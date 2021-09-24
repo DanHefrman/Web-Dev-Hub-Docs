@@ -4,15 +4,11 @@
 
 {% embed url="https://codepen.io/bgoonz/pen/mdRvdzd" %}
 
-
-
 {% embed url="https://replit.com/@bgoonz/chess\#main.py" caption="" %}
 
 {% embed url="https://replit.com/@bgoonz/Calculator\#index.html" caption="" %}
 
 ​
-
-{% embed url="https://codepen.io/bgoonz/pen/WNRPNpw" %}
 
 {% embed url="https://codesandbox.io/embed/wonderful-cohen-ee9nm?fontsize=14&hidenavigation=1&theme=dark" caption="" %}
 
@@ -21,8 +17,6 @@
 {% embed url="https://codesandbox.io/s/gatsby-site-forked-e3vn7" caption="" %}
 
 {% embed url="https://codesandbox.io/s/ys5bq" caption="" %}
-
-## My Blog:
 
 {% embed url="https://codesandbox.io/s/ys5bq" caption="" %}
 
