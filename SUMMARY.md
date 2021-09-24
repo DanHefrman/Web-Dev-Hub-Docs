@@ -7,6 +7,7 @@
 
 * [Tools](tools/tools/README.md)
   * [Docker](tools/tools/docker.md)
+  * [G-Cloud & Firebase](tools/tools/g-cloud-and-firebase.md)
   * [Heroku](tools/tools/heroku.md)
 * [Showcase](tools/showcase.md)
 * [Downloads](tools/downloads.md)
