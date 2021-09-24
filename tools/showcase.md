@@ -8,27 +8,18 @@
 
 {% embed url="https://replit.com/@bgoonz/Calculator\#index.html" caption="" %}
 
+  
+​[https://jsfiddle.net/bgoonz/L6082jrs/](https://jsfiddle.net/bgoonz/L6082jrs/)
+
 {% embed url="https://codesandbox.io/embed/wonderful-cohen-ee9nm?fontsize=14&hidenavigation=1&theme=dark" caption="" %}
+
+
 
 [https://jsfiddle.net/bgoonz/L6082jrs/](https://jsfiddle.net/bgoonz/L6082jrs/)
 
 {% tabs %}
 
-
-
-
-
-
-
-
-
 {% embed url="https://codesandbox.io/s/ys5bq" caption="" %}
-
-
-
-
-
-
 
 {% embed url="https://codesandbox.io/s/gatsby-site-forked-e3vn7" caption="" %}
 
@@ -74,27 +65,15 @@
 
 {% embed url="https://codepen.io/bgoonz/pen/ExZbOxE" caption="" %}
 
+{% embed url="https://codepen.io/bgoonz/pen/OJgxqbm" caption="" %}
 
+{% embed url="https://codepen.io/bgoonz/pen/LYyBwEp" caption="" %}
 
-{% embed url="https://codepen.io/bgoonz/pen/OJgxqbm" %}
+{% embed url="https://codepen.io/bgoonz/pen/mdwBNJq" caption="" %}
 
-{% embed url="https://codepen.io/bgoonz/pen/LYyBwEp" %}
+{% embed url="https://codepen.io/bgoonz/pen/ExZvGoZ" caption="" %}
 
+{% embed url="https://codepen.io/bgoonz/pen/jOydEBz" caption="" %}
 
-
-
-
-
-
-
-
-{% embed url="https://codepen.io/bgoonz/pen/mdwBNJq" %}
-
-{% embed url="https://codepen.io/bgoonz/pen/ExZvGoZ" %}
-
-{% embed url="https://codepen.io/bgoonz/pen/jOydEBz" %}
-
-{% embed url="https://codesandbox.io/embed/elegant-frog-6z855?fontsize=14&hidenavigation=1&theme=dark" %}
-
-
+{% embed url="https://codesandbox.io/embed/elegant-frog-6z855?fontsize=14&hidenavigation=1&theme=dark" caption="" %}
 

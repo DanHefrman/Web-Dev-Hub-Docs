@@ -319,7 +319,7 @@ description: initial page
   * [Netlify CMS](https://bryan-guner.gitbook.io/web-dev-hub-docs/web_dev_tools/netlify/netlify-cms)
   * [Git Gateway](https://bryan-guner.gitbook.io/web-dev-hub-docs/web_dev_tools/netlify/git-gateway)
 
-![](.gitbook/assets/image%20%282%29%20%282%29%20%282%29.png)
+![](.gitbook/assets/image%20%282%29%20%282%29%20%283%29%20%282%29.png)
 
 
 
@@ -367,7 +367,7 @@ description: initial page
 
 ![Top Langs](https://camo.githubusercontent.com/f792848d7595c91467c42491e4fc91d745e4feed3810fc941829f73ed21dd40d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d62676f6f6e7a266c61796f75743d636f6d7061637426686964653d68746d6c2c6d617468656d6174696361266c616e67735f636f756e743d3136)
 
-![](.gitbook/assets/image%20%282%29%20%282%29%20%281%29.png)
+![](.gitbook/assets/image%20%282%29%20%282%29%20%283%29%20%281%29.png)
 
 ## Python Website:
 
