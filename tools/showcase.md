@@ -8,8 +8,16 @@
 
 {% embed url="https://replit.com/@bgoonz/Calculator\#index.html" caption="" %}
 
+
+
   
-​[https://jsfiddle.net/bgoonz/L6082jrs/](https://jsfiddle.net/bgoonz/L6082jrs/)
+​[https://codepen.io/bgoonz/pen/WNRPNpw](https://codepen.io/bgoonz/pen/WNRPNpw)
+
+
+
+
+
+
 
 {% embed url="https://codesandbox.io/embed/wonderful-cohen-ee9nm?fontsize=14&hidenavigation=1&theme=dark" caption="" %}
 
@@ -106,6 +114,10 @@
 
 
 {% embed url="https://codepen.io/bgoonz/pen/NWdoWvN" %}
+
+{% embed url="https://codepen.io/bgoonz/pen/WNRPbeO" %}
+
+{% embed url="https://codepen.io/bgoonz/pen/WNRPNpw" %}
 
 
 
