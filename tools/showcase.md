@@ -16,10 +16,6 @@
 
 {% embed url="https://codesandbox.io/s/gatsby-site-forked-e3vn7" caption="" %}
 
-{% embed url="https://codesandbox.io/s/ys5bq" caption="" %}
-
-{% embed url="https://codesandbox.io/s/ys5bq" caption="" %}
-
 {% embed url="https://codesandbox.io/embed/react-multi-carousel-playground-forked-lkw9f?fontsize=14&hidenavigation=1&theme=dark" caption="" %}
 
 {% embed url="https://codesandbox.io/s/hbbi6" caption="" %}
