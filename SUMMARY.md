@@ -174,3 +174,7 @@
 
 * [Job Search](job-search/job-search.md)
 
+## General Comp Sci
+
+* [Principles behind the Agile Manifesto](general-comp-sci/principles-behind-the-agile-manifesto.md)
+
